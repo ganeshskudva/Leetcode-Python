@@ -11,3 +11,8 @@ Please give this repo a ⭐ if it inspires you.
 |[1929](https://leetcode.com/problems/concatenation-of-array/)| Concatenation of Array|
 |[345](https://leetcode.com/problems/reverse-vowels-of-a-string/)| Reverse Vowels of a String|
 
+## Hard
+|LC #|Description|
+|:-:|:-|
+|[899](https://leetcode.com/problems/orderly-queue/description/)| Orderly Queue|
+
