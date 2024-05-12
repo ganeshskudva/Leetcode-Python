@@ -5,3 +5,4 @@
 |[1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)| Kids With the Greatest Number of Candies|
 |[1929](https://leetcode.com/problems/concatenation-of-array/)| Concatenation of Array|
 |[345](https://leetcode.com/problems/reverse-vowels-of-a-string/)| Reverse Vowels of a String|
+|[2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|  Largest Local Values in a Matrix|
