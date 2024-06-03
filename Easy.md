@@ -7,3 +7,4 @@
 |[345](https://leetcode.com/problems/reverse-vowels-of-a-string/)| Reverse Vowels of a String|
 |[2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|  Largest Local Values in a Matrix|
 |[2331](https://leetcode.com/problems/evaluate-boolean-binary-tree/)|  Evaluate Boolean Binary Tree|
+|[704](https://leetcode.com/problems/binary-search/description/)|  Binary Search|
