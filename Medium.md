@@ -9,3 +9,4 @@
 |[1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|   Delete Leaves With a Given Value |
 |[200](https://leetcode.com/problems/number-of-islands/)|   Number of Islands |
 |[11](https://leetcode.com/problems/container-with-most-water/)|   Container With Most Water |
+|[155](https://leetcode.com/problems/min-stack/)|   Min Stack |
