@@ -19,3 +19,4 @@
 |[153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|   Find Minimum in Rotated Sorted Array |
 |[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)|   Search in Rotated Sorted Array |
 |[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|   Longest Substring Without Repeating Characters |
+|[424](https://leetcode.com/problems/longest-repeating-character-replacement/)|   Longest Repeating Character Replacement |
