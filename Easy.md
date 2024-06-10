@@ -14,3 +14,4 @@
 |[110](https://leetcode.com/problems/balanced-binary-tree/)|  Balanced Binary Tree|
 |[1051](https://leetcode.com/problems/height-checker/)|  Height Checker|
 |[206](https://leetcode.com/problems/reverse-linked-list/)|  Reverse Linked List|
+|[21](https://leetcode.com/problems/merge-two-sorted-lists/)|  Merge Two Sorted Lists|
