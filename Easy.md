@@ -13,3 +13,4 @@
 |[125](https://leetcode.com/problems/valid-palindrome/)|  Valid Palindrome|
 |[110](https://leetcode.com/problems/balanced-binary-tree/)|  Balanced Binary Tree|
 |[1051](https://leetcode.com/problems/height-checker/)|  Height Checker|
+|[206](https://leetcode.com/problems/reverse-linked-list/)|  Reverse Linked List|
