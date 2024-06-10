@@ -12,3 +12,4 @@
 |[1002](https://leetcode.com/problems/find-common-characters/)|  Find Common Characters|
 |[125](https://leetcode.com/problems/valid-palindrome/)|  Valid Palindrome|
 |[110](https://leetcode.com/problems/balanced-binary-tree/)|  Balanced Binary Tree|
+|[1051](https://leetcode.com/problems/height-checker/)|  Height Checker|
