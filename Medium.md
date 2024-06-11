@@ -23,3 +23,4 @@
 |[695](https://leetcode.com/problems/max-area-of-island/)|  Max Area of Island |
 |[146](https://leetcode.com/problems/lru-cache/)|  LRU Cache |
 |[287](https://leetcode.com/problems/find-the-duplicate-number/)|  Find the Duplicate Number |
+|[286](https://leetcode.com/problems/walls-and-gates/)|  Walls and Gates |
