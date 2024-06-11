@@ -22,3 +22,4 @@
 |[424](https://leetcode.com/problems/longest-repeating-character-replacement/)|   Longest Repeating Character Replacement |
 |[695](https://leetcode.com/problems/max-area-of-island/)|  Max Area of Island |
 |[146](https://leetcode.com/problems/lru-cache/)|  LRU Cache |
+|[287](https://leetcode.com/problems/find-the-duplicate-number/)|  Find the Duplicate Number |
