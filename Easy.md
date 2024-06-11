@@ -16,3 +16,4 @@
 |[206](https://leetcode.com/problems/reverse-linked-list/)|  Reverse Linked List|
 |[21](https://leetcode.com/problems/merge-two-sorted-lists/)|  Merge Two Sorted Lists|
 |[141](https://leetcode.com/problems/linked-list-cycle/)|  Linked List Cycle|
+|[252](https://leetcode.com/problems/meeting-rooms/)|  Meeting Rooms|
