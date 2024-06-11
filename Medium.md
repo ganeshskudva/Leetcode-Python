@@ -21,3 +21,4 @@
 |[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|   Longest Substring Without Repeating Characters |
 |[424](https://leetcode.com/problems/longest-repeating-character-replacement/)|   Longest Repeating Character Replacement |
 |[695](https://leetcode.com/problems/max-area-of-island/)|  Max Area of Island |
+|[146](https://leetcode.com/problems/lru-cache/)|  LRU Cache |
