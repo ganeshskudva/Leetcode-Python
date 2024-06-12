@@ -31,3 +31,4 @@
 |[994](https://leetcode.com/problems/rotting-oranges/)|  Rotting Oranges |
 |[207](https://leetcode.com/problems/course-schedule/)|  Course Schedule |
 |[210](https://leetcode.com/problems/course-schedule-ii/)|  Course Schedule II |
+|[678](https://leetcode.com/problems/valid-parenthesis-string/)|  Valid Parenthesis String |
