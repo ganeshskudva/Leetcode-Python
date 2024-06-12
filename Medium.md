@@ -32,3 +32,4 @@
 |[207](https://leetcode.com/problems/course-schedule/)|  Course Schedule |
 |[210](https://leetcode.com/problems/course-schedule-ii/)|  Course Schedule II |
 |[678](https://leetcode.com/problems/valid-parenthesis-string/)|  Valid Parenthesis String |
+|[261](https://leetcode.com/problems/graph-valid-tree/)|  Graph Valid Tree |
