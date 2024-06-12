@@ -34,3 +34,4 @@
 |[678](https://leetcode.com/problems/valid-parenthesis-string/)|  Valid Parenthesis String |
 |[261](https://leetcode.com/problems/graph-valid-tree/)|  Graph Valid Tree |
 |[75](https://leetcode.com/problems/sort-colors/)|  Sort Colors |
+|[1899](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)|  Merge Triplets to Form Target Triplet |
