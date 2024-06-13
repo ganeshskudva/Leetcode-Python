@@ -36,3 +36,4 @@
 |[75](https://leetcode.com/problems/sort-colors/)|  Sort Colors |
 |[1899](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)|  Merge Triplets to Form Target Triplet |
 |[134](https://leetcode.com/problems/gas-station/)|  Gas Station |
+|[235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|  Lowest Common Ancestor of a Binary Search Tree |
