@@ -18,3 +18,4 @@
 |[141](https://leetcode.com/problems/linked-list-cycle/)|  Linked List Cycle|
 |[252](https://leetcode.com/problems/meeting-rooms/)|  Meeting Rooms|
 |[1122](https://leetcode.com/problems/relative-sort-array/)|  Relative Sort Array|
+|[2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|  Minimum Number of Moves to Seat Everyone|
