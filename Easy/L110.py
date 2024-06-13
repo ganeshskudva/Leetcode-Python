@@ -10,14 +10,9 @@ class Solution:
             if not node:
                 return 0
             left_height = solve(node.left)
-            if left_height == -1:
-                return left_height
             right_height = solve(node.right)
-            if right_height == -1:
-                return right_height
-            
-            if abs(left_height - right_height) > 1:
+            if left_height == -1 or right_height == -1 or abs(left_height - right_height) > 1:
                 return -1
             return max(left_height, right_height) + 1
-        
+
         return solve(root) != -1
