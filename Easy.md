@@ -20,3 +20,4 @@
 |[1122](https://leetcode.com/problems/relative-sort-array/)|  Relative Sort Array|
 |[2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|  Minimum Number of Moves to Seat Everyone|
 |[226](https://leetcode.com/problems/invert-binary-tree/)|  Invert Binary Tree|
+|[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|  Maximum Depth of Binary Tree|
