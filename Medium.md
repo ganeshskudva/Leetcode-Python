@@ -42,3 +42,4 @@
 |[199](https://leetcode.com/problems/binary-tree-right-side-view/)|  Binary Tree Right Side View |
 |[208](https://leetcode.com/problems/implement-trie-prefix-tree/)|  Implement Trie (Prefix Tree) |
 |[211](https://leetcode.com/problems/implement-trie-prefix-tree/)|  Design Add and Search Words Data Structure |
+|[945](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|  Minimum Increment to Make Array Unique |
