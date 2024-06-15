@@ -44,3 +44,4 @@
 |[211](https://leetcode.com/problems/implement-trie-prefix-tree/)|  Design Add and Search Words Data Structure |
 |[945](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|  Minimum Increment to Make Array Unique |
 |[2707](https://leetcode.com/problems/extra-characters-in-a-string/)|  Extra Characters in a String |
+|[49](https://leetcode.com/problems/group-anagrams/)|  Group Anagrams |
