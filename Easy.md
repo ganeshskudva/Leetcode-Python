@@ -30,3 +30,4 @@
 |[929](https://leetcode.com/problems/unique-email-addresses/)|   Unique Email Addresses|
 |[205](https://leetcode.com/problems/isomorphic-strings/)|   Isomorphic Strings|
 |[605](https://leetcode.com/problems/can-place-flowers/)|   Can Place Flowers|
+|[169](https://leetcode.com/problems/majority-element/)|   Majority Element|
