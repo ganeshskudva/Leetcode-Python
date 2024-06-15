@@ -25,3 +25,4 @@
 |[572](https://leetcode.com/problems/subtree-of-another-tree/)|  Subtree of Another Tree|
 |[1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|  Replace Elements with Greatest Element on Right Side|
 |[14](https://leetcode.com/problems/longest-common-prefix/)|  Longest Common Prefix|
+|[118](https://leetcode.com/problems/pascals-triangle/)|  Pascal's Triangle|
