@@ -28,3 +28,4 @@
 |[118](https://leetcode.com/problems/pascals-triangle/)|  Pascal's Triangle|
 |[27](https://leetcode.com/problems/remove-element/)|   Remove Element|
 |[929](https://leetcode.com/problems/unique-email-addresses/)|   Unique Email Addresses|
+|[205](https://leetcode.com/problems/isomorphic-strings/)|   Isomorphic Strings|
