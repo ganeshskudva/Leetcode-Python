@@ -29,3 +29,4 @@
 |[27](https://leetcode.com/problems/remove-element/)|   Remove Element|
 |[929](https://leetcode.com/problems/unique-email-addresses/)|   Unique Email Addresses|
 |[205](https://leetcode.com/problems/isomorphic-strings/)|   Isomorphic Strings|
+|[605](https://leetcode.com/problems/can-place-flowers/)|   Can Place Flowers|
