@@ -45,3 +45,4 @@
 |[945](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|  Minimum Increment to Make Array Unique |
 |[2707](https://leetcode.com/problems/extra-characters-in-a-string/)|  Extra Characters in a String |
 |[49](https://leetcode.com/problems/group-anagrams/)|  Group Anagrams |
+|[36](https://leetcode.com/problems/valid-sudoku/)|  Valid Sudoku |
