@@ -50,3 +50,5 @@
 |[39](https://leetcode.com/problems/combination-sum/)|  Combination Sum |
 |[46](https://leetcode.com/problems/permutations/)|  Permutations |
 |[90](https://leetcode.com/problems/subsets-ii/)|  Subsets II |
+|[40](https://leetcode.com/problems/combination-sum-ii/)|  Combination Sum II |
+|[216](https://leetcode.com/problems/combination-sum-iii/)|  Combination Sum III |
