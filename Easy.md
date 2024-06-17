@@ -35,3 +35,4 @@
 |[1984](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|   Minimum Difference Between Highest and Lowest of K Scores|
 |[1768](https://leetcode.com/problems/merge-strings-alternately/)|   Merge Strings Alternately|
 |[283](https://leetcode.com/problems/move-zeroes/)|   Move Zeroes|
+|[26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|   Remove Duplicates from Sorted Array|
