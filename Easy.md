@@ -33,3 +33,4 @@
 |[169](https://leetcode.com/problems/majority-element/)|   Majority Element|
 |[680](https://leetcode.com/problems/valid-palindrome-ii/)|   Valid Palindrome II|
 |[1984](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|   Minimum Difference Between Highest and Lowest of K Scores|
+|[1768](https://leetcode.com/problems/merge-strings-alternately/)|   Merge Strings Alternately|
