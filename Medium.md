@@ -56,3 +56,4 @@
 |[131](https://leetcode.com/problems/palindrome-partitioning/)|  Palindrome Partitioning |
 |[17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|  Letter Combinations of a Phone Number |
 |[633](https://leetcode.com/problems/sum-of-square-numbers/)|  Sum of Square Numbers |
+|[826](https://leetcode.com/problems/most-profit-assigning-work)|  Most Profit Assigning Work |
