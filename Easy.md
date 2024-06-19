@@ -41,3 +41,4 @@
 |[844](https://leetcode.com/problems/backspace-string-compare/)|   Backspace String Compare|
 |[557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|   Reverse Words in a String III|
 |[112](https://leetcode.com/problems/path-sum/)|   Path Sum|
+|[872](https://leetcode.com/problems/leaf-similar-trees/)|   Leaf-Similar Trees|
