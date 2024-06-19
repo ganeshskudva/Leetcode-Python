@@ -64,3 +64,4 @@
 |[98](https://leetcode.com/problems/validate-binary-search-tree/)|  Validate Binary Search Tree |
 |[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|  Kth Smallest Element in a BST |
 |[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|  Construct Binary Tree from Preorder and Inorder Traversal |
+|[1482](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|  Minimum Number of Days to Make m Bouquets |
