@@ -67,3 +67,4 @@
 |[1482](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|  Minimum Number of Days to Make m Bouquets |
 |[1052](https://leetcode.com/problems/grumpy-bookstore-owner/)|  Grumpy Bookstore Owner |
 |[1552](https://leetcode.com/problems/magnetic-force-between-two-balls/)|  Magnetic Force Between Two Balls |
+|[3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)|  Find the Length of the Longest Common Prefix |
