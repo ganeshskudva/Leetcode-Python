@@ -68,3 +68,4 @@
 |[1052](https://leetcode.com/problems/grumpy-bookstore-owner/)|  Grumpy Bookstore Owner |
 |[1552](https://leetcode.com/problems/magnetic-force-between-two-balls/)|  Magnetic Force Between Two Balls |
 |[3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)|  Find the Length of the Longest Common Prefix |
+|[1248](https://leetcode.com/problems/count-number-of-nice-subarrays/)|  Count Number of Nice Subarrays |
