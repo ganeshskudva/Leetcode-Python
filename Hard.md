@@ -10,3 +10,4 @@
 |[212](https://leetcode.com/problems/word-search-ii/)| Word Search II|
 |[502](https://leetcode.com/problems/ipo/)| IPO|
 |[330](https://leetcode.com/problems/patching-array)| Patching Array|
+|[995](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)| Minimum Number of K Consecutive Bit Flips|
