@@ -70,3 +70,4 @@
 |[3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)|  Find the Length of the Longest Common Prefix |
 |[1248](https://leetcode.com/problems/count-number-of-nice-subarrays/)|  Count Number of Nice Subarrays |
 |[1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|  Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit |
+|[314](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|  Binary Tree Vertical Order Traversal |
