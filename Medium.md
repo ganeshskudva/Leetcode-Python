@@ -73,3 +73,4 @@
 |[314](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|  Binary Tree Vertical Order Traversal |
 |[1038](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|  Binary Search Tree to Greater Sum Tree |
 |[1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|  Minimum Remove to Make Valid Parentheses |
+|[1382](https://leetcode.com/problems/balance-a-binary-search-tree/)|   Balance a Binary Search Tree |
