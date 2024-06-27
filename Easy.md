@@ -43,3 +43,4 @@
 |[112](https://leetcode.com/problems/path-sum/)|   Path Sum|
 |[872](https://leetcode.com/problems/leaf-similar-trees/)|   Leaf-Similar Trees|
 |[408](https://leetcode.com/problems/valid-word-abbreviation/)|   Valid Word Abbreviation|
+|[1791](https://leetcode.com/problems/find-center-of-star-graph/)|   Find Center of Star Graph|
