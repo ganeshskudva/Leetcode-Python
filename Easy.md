@@ -44,3 +44,4 @@
 |[872](https://leetcode.com/problems/leaf-similar-trees/)|   Leaf-Similar Trees|
 |[408](https://leetcode.com/problems/valid-word-abbreviation/)|   Valid Word Abbreviation|
 |[1791](https://leetcode.com/problems/find-center-of-star-graph/)|   Find Center of Star Graph|
+|[1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|   Remove All Adjacent Duplicates In String|
