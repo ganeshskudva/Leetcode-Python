@@ -75,3 +75,4 @@
 |[1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|  Minimum Remove to Make Valid Parentheses |
 |[1382](https://leetcode.com/problems/balance-a-binary-search-tree/)|   Balance a Binary Search Tree |
 |[1650](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)|    Lowest Common Ancestor of a Binary Tree III |
+|[1570](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)|    Dot Product of Two Sparse Vectors |
