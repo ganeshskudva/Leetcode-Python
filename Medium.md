@@ -76,3 +76,4 @@
 |[1382](https://leetcode.com/problems/balance-a-binary-search-tree/)|   Balance a Binary Search Tree |
 |[1650](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)|    Lowest Common Ancestor of a Binary Tree III |
 |[1570](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)|    Dot Product of Two Sparse Vectors |
+|[2285](https://leetcode.com/problems/maximum-total-importance-of-roads/)|    Maximum Total Importance of Roads |
