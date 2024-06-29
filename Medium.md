@@ -82,3 +82,4 @@
 |[426](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|    Convert Binary Search Tree to Sorted Doubly Linked List |
 |[227](https://leetcode.com/problems/basic-calculator-ii/)|    Basic Calculator II |
 |[528](https://leetcode.com/problems/random-pick-with-weight/)|    Random Pick with Weight |
+|[71](https://leetcode.com/problems/simplify-path/)|    Simplify Path |
