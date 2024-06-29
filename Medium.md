@@ -78,3 +78,4 @@
 |[1570](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)|    Dot Product of Two Sparse Vectors |
 |[2285](https://leetcode.com/problems/maximum-total-importance-of-roads/)|    Maximum Total Importance of Roads |
 |[2192](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)|    All Ancestors of a Node in a Directed Acyclic Graph |
+|[1762](https://leetcode.com/problems/buildings-with-an-ocean-view/)|    Buildings With an Ocean View |
