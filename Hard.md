@@ -11,3 +11,5 @@
 |[502](https://leetcode.com/problems/ipo/)| IPO|
 |[330](https://leetcode.com/problems/patching-array)| Patching Array|
 |[995](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)| Minimum Number of K Consecutive Bit Flips|
+|[772](https://leetcode.com/problems/basic-calculator-iii/)| Basic Calculator III|
+|[224](https://leetcode.com/problems/basic-calculator/)| Basic Calculator|
