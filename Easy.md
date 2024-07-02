@@ -47,3 +47,4 @@
 |[1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|   Remove All Adjacent Duplicates In String|
 |[766](https://leetcode.com/problems/toeplitz-matrix/)|   Toeplitz Matrix|
 |[1550](https://leetcode.com/problems/three-consecutive-odds/)|   Three Consecutive Odds|
+|[350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|   Intersection of Two Arrays II|
