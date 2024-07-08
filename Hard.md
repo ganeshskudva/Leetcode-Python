@@ -14,3 +14,4 @@
 |[772](https://leetcode.com/problems/basic-calculator-iii/)| Basic Calculator III|
 |[224](https://leetcode.com/problems/basic-calculator/)| Basic Calculator|
 |[76](https://leetcode.com/problems/minimum-window-substring/)| Minimum Window Substring|
+|[41](https://leetcode.com/problems/first-missing-positive/)| First Missing Positive|
