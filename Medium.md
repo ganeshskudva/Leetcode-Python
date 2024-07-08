@@ -88,4 +88,5 @@
 |[2181](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|    Merge Nodes in Between Zeros |
 |[2058](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)|    Find the Minimum and Maximum Number of Nodes Between Critical Points |
 |[1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|    Sum of Nodes with Even-Valued Grandparent |
-|[209](Minimum Size Subarray Sum)|    Minimum Size Subarray Sum |
+|[209](https://leetcode.com/problems/minimum-size-subarray-sum/)|    Minimum Size Subarray Sum |
+|[1823](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|    Find the Winner of the Circular Game |
