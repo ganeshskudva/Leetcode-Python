@@ -50,3 +50,4 @@
 |[350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|   Intersection of Two Arrays II|
 |[2582](https://leetcode.com/problems/pass-the-pillow/)|   Pass the Pillow|
 |[2481](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)|   Minimum Cuts to Divide a Circle|
+|[401](https://leetcode.com/problems/binary-watch/)|   Binary Watch|
