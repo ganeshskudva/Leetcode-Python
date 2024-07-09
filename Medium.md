@@ -90,3 +90,4 @@
 |[1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|    Sum of Nodes with Even-Valued Grandparent |
 |[209](https://leetcode.com/problems/minimum-size-subarray-sum/)|    Minimum Size Subarray Sum |
 |[1823](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|    Find the Winner of the Circular Game |
+|[1701](https://leetcode.com/problems/average-waiting-time/)|    Average Waiting Time |
