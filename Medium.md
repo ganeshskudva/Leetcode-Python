@@ -96,3 +96,4 @@
 |[1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|    Shortest Path in Binary Matrix |
 |[921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|    Minimum Add to Make Parentheses Valid |
 |[986](https://leetcode.com/problems/interval-list-intersections/)|    Interval List Intersections |
+|[1190](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|    Reverse Substrings Between Each Pair of Parentheses |
