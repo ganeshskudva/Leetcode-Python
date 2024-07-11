@@ -95,3 +95,4 @@
 |[1481](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|    Least Number of Unique Integers after K Removals |
 |[1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|    Shortest Path in Binary Matrix |
 |[921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|    Minimum Add to Make Parentheses Valid |
+|[986](https://leetcode.com/problems/interval-list-intersections/)|    Interval List Intersections |
