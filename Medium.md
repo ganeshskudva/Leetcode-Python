@@ -98,3 +98,4 @@
 |[986](https://leetcode.com/problems/interval-list-intersections/)|    Interval List Intersections |
 |[1190](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|    Reverse Substrings Between Each Pair of Parentheses |
 |[1717](https://leetcode.com/problems/maximum-score-from-removing-substrings/)|    Maximum Score From Removing Substrings |
+|[2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/)|    Create Binary Tree From Descriptions |
