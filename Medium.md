@@ -100,3 +100,4 @@
 |[1717](https://leetcode.com/problems/maximum-score-from-removing-substrings/)|    Maximum Score From Removing Substrings |
 |[2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/)|    Create Binary Tree From Descriptions |
 |[1722](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/)|    Minimize Hamming Distance After Swap Operations |
+|[300](https://leetcode.com/problems/longest-increasing-subsequence/)|    Longest Increasing Subsequence |
