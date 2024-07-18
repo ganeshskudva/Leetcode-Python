@@ -105,3 +105,4 @@
 |[973](https://leetcode.com/problems/k-closest-points-to-origin/)|    K Closest Points to Origin |
 |[1110](https://leetcode.com/problems/delete-nodes-and-return-forest/)|    Delete Nodes And Return Forest |
 |[1530](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)|    Number of Good Leaf Nodes Pairs |
+|[427](https://leetcode.com/problems/construct-quad-tree/)|    Construct Quad Tree |
