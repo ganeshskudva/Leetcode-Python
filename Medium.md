@@ -104,3 +104,4 @@
 |[2096](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)|    Step-By-Step Directions From a Binary Tree Node to Another |
 |[973](https://leetcode.com/problems/k-closest-points-to-origin/)|    K Closest Points to Origin |
 |[1110](https://leetcode.com/problems/delete-nodes-and-return-forest/)|    Delete Nodes And Return Forest |
+|[1530](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)|    Number of Good Leaf Nodes Pairs |
