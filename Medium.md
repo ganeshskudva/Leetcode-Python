@@ -107,3 +107,4 @@
 |[1530](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)|    Number of Good Leaf Nodes Pairs |
 |[427](https://leetcode.com/problems/construct-quad-tree/)|    Construct Quad Tree |
 |[24](https://leetcode.com/problems/swap-nodes-in-pairs/)|    Swap Nodes in Pairs |
+|[34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|    Find First and Last Position of Element in Sorted Array |
