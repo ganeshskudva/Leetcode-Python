@@ -55,3 +55,4 @@
 |[617](https://leetcode.com/problems/merge-two-binary-trees/)|   Merge Two Binary Trees|
 |[1854](https://leetcode.com/problems/maximum-population-year/)|   Maximum Population Year|
 |[234](https://leetcode.com/problems/palindrome-linked-list/)|   Palindrome Linked List|
+|[1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|   Lucky Numbers in a Matrix|
