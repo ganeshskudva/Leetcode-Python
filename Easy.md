@@ -56,3 +56,4 @@
 |[1854](https://leetcode.com/problems/maximum-population-year/)|   Maximum Population Year|
 |[234](https://leetcode.com/problems/palindrome-linked-list/)|   Palindrome Linked List|
 |[1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|   Lucky Numbers in a Matrix|
+|[3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/)|   Find Minimum Operations to Make All Elements Divisible by Three|
