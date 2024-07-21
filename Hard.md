@@ -18,3 +18,4 @@
 |[726](https://leetcode.com/problems/number-of-atoms/)| Number of Atoms|
 |[2751](https://leetcode.com/problems/robot-collisions/)| Robot Collisions|
 |[815](https://leetcode.com/problems/bus-routes/)| Bus Routes|
+|[297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| Serialize and Deserialize Binary Tree|
