@@ -109,3 +109,4 @@
 |[24](https://leetcode.com/problems/swap-nodes-in-pairs/)|    Swap Nodes in Pairs |
 |[34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|    Find First and Last Position of Element in Sorted Array |
 |[1605](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)|    Find Valid Matrix Given Row and Column Sums |
+|[687](https://leetcode.com/problems/longest-univalue-path/)|    Longest Univalue Path |
