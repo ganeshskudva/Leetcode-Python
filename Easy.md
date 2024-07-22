@@ -62,3 +62,4 @@
 |[2506](https://leetcode.com/problems/count-pairs-of-similar-strings/)|    Count Pairs Of Similar Strings |
 |[509](https://leetcode.com/problems/fibonacci-number/)|    Fibonacci Number |
 |[101](https://leetcode.com/problems/symmetric-tree)|    Symmetric Tree |
+|[1046](https://leetcode.com/problems/last-stone-weight/)|    Last Stone Weight |
