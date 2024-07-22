@@ -59,3 +59,4 @@
 |[3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/)|   Find Minimum Operations to Make All Elements Divisible by Three|
 |[2418](https://leetcode.com/problems/sort-the-people/)|   Sort the People|
 |[993](https://leetcode.com/problems/cousins-in-binary-tree/)|   SCousins in Binary Tree|
+|[2506](https://leetcode.com/problems/count-pairs-of-similar-strings/)|    Count Pairs Of Similar Strings |
