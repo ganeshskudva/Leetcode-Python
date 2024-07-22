@@ -57,3 +57,4 @@
 |[234](https://leetcode.com/problems/palindrome-linked-list/)|   Palindrome Linked List|
 |[1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|   Lucky Numbers in a Matrix|
 |[3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/)|   Find Minimum Operations to Make All Elements Divisible by Three|
+|[2418](https://leetcode.com/problems/sort-the-people/)|   Sort the People|
