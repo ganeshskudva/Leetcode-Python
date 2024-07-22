@@ -58,3 +58,4 @@
 |[1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|   Lucky Numbers in a Matrix|
 |[3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/)|   Find Minimum Operations to Make All Elements Divisible by Three|
 |[2418](https://leetcode.com/problems/sort-the-people/)|   Sort the People|
+|[993](https://leetcode.com/problems/cousins-in-binary-tree/)|   SCousins in Binary Tree|
