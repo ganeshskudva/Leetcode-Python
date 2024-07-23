@@ -22,3 +22,4 @@
 |[124](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| Binary Tree Maximum Path Sum|
 |[358](https://leetcode.com/problems/rearrange-string-k-distance-apart/)| Rearrange String k Distance Apart|
 |[295](https://leetcode.com/problems/find-median-from-data-stream/)| Find Median from Data Stream|
+|[1675](https://leetcode.com/problems/minimize-deviation-in-array/)| Minimize Deviation in Array|
