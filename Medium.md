@@ -114,3 +114,4 @@
 |[621](https://leetcode.com/problems/task-scheduler/)|    Task Scheduler |
 |[355](https://leetcode.com/problems/design-twitter/)|    Design Twitter |
 |[1642](https://leetcode.com/problems/furthest-building-you-can-reach/)|    Furthest Building You Can Reach |
+|[2542](https://leetcode.com/problems/maximum-subsequence-score/)|    Maximum Subsequence Score |
