@@ -63,3 +63,4 @@
 |[509](https://leetcode.com/problems/fibonacci-number/)|    Fibonacci Number |
 |[101](https://leetcode.com/problems/symmetric-tree)|    Symmetric Tree |
 |[1046](https://leetcode.com/problems/last-stone-weight/)|    Last Stone Weight |
+|[1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|    Sort Array by Increasing Frequency |
