@@ -21,3 +21,4 @@
 |[297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| Serialize and Deserialize Binary Tree|
 |[124](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| Binary Tree Maximum Path Sum|
 |[358](https://leetcode.com/problems/rearrange-string-k-distance-apart/)| Rearrange String k Distance Apart|
+|[295](https://leetcode.com/problems/find-median-from-data-stream/)| Find Median from Data Stream|
