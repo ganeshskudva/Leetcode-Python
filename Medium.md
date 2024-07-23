@@ -113,3 +113,4 @@
 |[371](https://leetcode.com/problems/sum-of-two-integers/)|    Sum of Two Integers |
 |[621](https://leetcode.com/problems/task-scheduler/)|    Task Scheduler |
 |[355](https://leetcode.com/problems/design-twitter/)|    Design Twitter |
+|[1642](https://leetcode.com/problems/furthest-building-you-can-reach/)|    Furthest Building You Can Reach |
