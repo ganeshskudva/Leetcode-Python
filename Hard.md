@@ -23,3 +23,5 @@
 |[358](https://leetcode.com/problems/rearrange-string-k-distance-apart/)| Rearrange String k Distance Apart|
 |[295](https://leetcode.com/problems/find-median-from-data-stream/)| Find Median from Data Stream|
 |[1675](https://leetcode.com/problems/minimize-deviation-in-array/)| Minimize Deviation in Array|
+|[1383](https://leetcode.com/problems/maximum-performance-of-a-team/)| Maximum Performance of a Team|
+|[857](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)| Minimum Cost to Hire K Workers|
