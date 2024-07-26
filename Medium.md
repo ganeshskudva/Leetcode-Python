@@ -117,3 +117,4 @@
 |[2542](https://leetcode.com/problems/maximum-subsequence-score/)|    Maximum Subsequence Score |
 |[2017](https://leetcode.com/problems/grid-game/)|    Grid Game |
 |[2191](https://leetcode.com/problems/sort-the-jumbled-numbers/)|    Sort the Jumbled Numbers |
+|[912](https://leetcode.com/problems/sort-an-array/)|    Sort an Array |
