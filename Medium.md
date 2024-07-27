@@ -123,3 +123,5 @@
 |[2390](https://leetcode.com/problems/removing-stars-from-a-string/)|    Removing Stars From a String |
 |[946](https://leetcode.com/problems/validate-stack-sequences/)|    Validate Stack Sequences |
 |[22](https://leetcode.com/problems/generate-parentheses/)|    Generate Parentheses |
+|[739](https://leetcode.com/problems/daily-temperatures/)|    Daily Temperatures |
+|[735](https://leetcode.com/problems/asteroid-collision/)|    Asteroid Collision |
