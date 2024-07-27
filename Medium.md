@@ -121,3 +121,4 @@
 |[2976](https://leetcode.com/problems/minimum-cost-to-convert-string-i/)|    Minimum Cost to Convert String I |
 |[150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|    Evaluate Reverse Polish Notation |
 |[2390](https://leetcode.com/problems/removing-stars-from-a-string/)|    Removing Stars From a String |
+|[946](https://leetcode.com/problems/validate-stack-sequences/)|    Validate Stack Sequences |
