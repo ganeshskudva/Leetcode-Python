@@ -122,3 +122,4 @@
 |[150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|    Evaluate Reverse Polish Notation |
 |[2390](https://leetcode.com/problems/removing-stars-from-a-string/)|    Removing Stars From a String |
 |[946](https://leetcode.com/problems/validate-stack-sequences/)|    Validate Stack Sequences |
+|[22](https://leetcode.com/problems/generate-parentheses/)|    Generate Parentheses |
