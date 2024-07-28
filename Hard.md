@@ -25,3 +25,4 @@
 |[1675](https://leetcode.com/problems/minimize-deviation-in-array/)| Minimize Deviation in Array|
 |[1383](https://leetcode.com/problems/maximum-performance-of-a-team/)| Maximum Performance of a Team|
 |[857](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)| Minimum Cost to Hire K Workers|
+|[2045](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)| Second Minimum Time to Reach Destination|
