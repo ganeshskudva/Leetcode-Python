@@ -64,3 +64,5 @@
 |[101](https://leetcode.com/problems/symmetric-tree)|    Symmetric Tree |
 |[1046](https://leetcode.com/problems/last-stone-weight/)|    Last Stone Weight |
 |[1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|    Sort Array by Increasing Frequency |
+|[70](https://leetcode.com/problems/climbing-stairs/)|    Climbing Stairs |
+|[746](https://leetcode.com/problems/min-cost-climbing-stairs/)|    Min Cost Climbing Stairs |
