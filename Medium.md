@@ -129,3 +129,4 @@
 |[1395](https://leetcode.com/problems/count-number-of-teams/)|    Count Number of Teams |
 |[1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)|    Minimum Deletions to Make String Balanced |
 |[48](https://leetcode.com/problems/rotate-image/)|    Rotate Image |
+|[1834](https://leetcode.com/problems/single-threaded-cpu/)|    Single-Threaded CPU |
