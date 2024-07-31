@@ -27,3 +27,4 @@
 |[857](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)| Minimum Cost to Hire K Workers|
 |[2045](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)| Second Minimum Time to Reach Destination|
 |[4](https://leetcode.com/problems/median-of-two-sorted-arrays/)| Median of Two Sorted Arrays|
+|[1547](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)| Minimum Cost to Cut a Stick|
