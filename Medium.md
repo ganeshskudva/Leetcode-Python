@@ -131,3 +131,4 @@
 |[48](https://leetcode.com/problems/rotate-image/)|    Rotate Image |
 |[1834](https://leetcode.com/problems/single-threaded-cpu/)|    Single-Threaded CPU |
 |[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|    Binary Tree Zigzag Level Order Traversal |
+|[1105](https://leetcode.com/problems/filling-bookcase-shelves/)|    Filling Bookcase Shelves |
