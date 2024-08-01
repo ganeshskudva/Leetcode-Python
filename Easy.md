@@ -66,3 +66,4 @@
 |[1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|    Sort Array by Increasing Frequency |
 |[70](https://leetcode.com/problems/climbing-stairs/)|    Climbing Stairs |
 |[746](https://leetcode.com/problems/min-cost-climbing-stairs/)|    Min Cost Climbing Stairs |
+|[2678](https://leetcode.com/problems/number-of-senior-citizens/)|    Number of Senior Citizens |
