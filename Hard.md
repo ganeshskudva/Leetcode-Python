@@ -29,3 +29,4 @@
 |[4](https://leetcode.com/problems/median-of-two-sorted-arrays/)| Median of Two Sorted Arrays|
 |[1547](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)| Minimum Cost to Cut a Stick|
 |[793](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/)| Preimage Size of Factorial Zeroes Function|
+|[795](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)| Number of Subarrays with Bounded Maximum|
