@@ -134,3 +134,5 @@
 |[1105](https://leetcode.com/problems/filling-bookcase-shelves/)|    Filling Bookcase Shelves |
 |[2](https://leetcode.com/problems/add-two-numbers/)|    Add Two Numbers |
 |[910](https://leetcode.com/problems/smallest-range-ii/)|    Smallest Range II |
+|[1151](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|    Minimum Swaps to Group All 1's Together |
+|[2134](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)|    Minimum Swaps to Group All 1's Together II |
