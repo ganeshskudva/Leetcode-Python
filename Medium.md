@@ -139,3 +139,4 @@
 |[366](https://leetcode.com/problems/find-leaves-of-binary-tree/)|   Find Leaves of Binary Tree |
 |[1020](https://leetcode.com/problems/number-of-enclaves/)|   Number of Enclaves |
 |[91](https://leetcode.com/problems/decode-ways/)|   Decode Ways |
+|[96](https://leetcode.com/problems/unique-binary-search-trees/)|   Unique Binary Search Trees |
