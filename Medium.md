@@ -141,3 +141,4 @@
 |[91](https://leetcode.com/problems/decode-ways/)|   Decode Ways |
 |[96](https://leetcode.com/problems/unique-binary-search-trees/)|   Unique Binary Search Trees |
 |[95](https://leetcode.com/problems/unique-binary-search-trees-ii/)|   Unique Binary Search Trees II |
+|[1257](https://leetcode.com/problems/smallest-common-region/)|   Smallest Common Region |
