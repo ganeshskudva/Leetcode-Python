@@ -68,3 +68,4 @@
 |[746](https://leetcode.com/problems/min-cost-climbing-stairs/)|    Min Cost Climbing Stairs |
 |[2678](https://leetcode.com/problems/number-of-senior-citizens/)|    Number of Senior Citizens |
 |[908](https://leetcode.com/problems/smallest-range-i/)|    Smallest Range I |
+|[1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/)|    Make Two Arrays Equal by Reversing Subarrays |
