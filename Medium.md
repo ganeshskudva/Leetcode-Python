@@ -137,3 +137,4 @@
 |[1151](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|    Minimum Swaps to Group All 1's Together |
 |[2134](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)|    Minimum Swaps to Group All 1's Together II |
 |[366](https://leetcode.com/problems/find-leaves-of-binary-tree/)|   Find Leaves of Binary Tree |
+|[1020](https://leetcode.com/problems/number-of-enclaves/)|   Number of Enclaves |
