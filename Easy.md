@@ -70,3 +70,4 @@
 |[908](https://leetcode.com/problems/smallest-range-i/)|    Smallest Range I |
 |[1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/)|    Make Two Arrays Equal by Reversing Subarrays |
 |[2053](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|    Kth Distinct String in an Array |
+|[868](https://leetcode.com/problems/binary-gap/)|    Binary Gap |
