@@ -146,3 +146,4 @@
 |[3016](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/)|   Minimum Number of Pushes to Type Word II |
 |[2473](https://leetcode.com/problems/minimum-cost-to-buy-apples/)|   Minimum Cost to Buy Apples |
 |[1418](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/)|   Display Table of Food Orders in a Restaurant |
+|[1247](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)|   Minimum Swaps to Make Strings Equal |
