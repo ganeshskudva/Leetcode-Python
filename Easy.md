@@ -71,3 +71,4 @@
 |[1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/)|    Make Two Arrays Equal by Reversing Subarrays |
 |[2053](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|    Kth Distinct String in an Array |
 |[868](https://leetcode.com/problems/binary-gap/)|    Binary Gap |
+|[2455](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|    Average Value of Even Numbers That Are Divisible by Three |
