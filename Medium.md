@@ -153,3 +153,4 @@
 |[885](https://leetcode.com/problems/spiral-matrix-iii/)|   Spiral Matrix III |
 |[915](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|   Partition Array into Disjoint Intervals |
 |[840](https://leetcode.com/problems/magic-squares-in-grid/)|   Magic Squares In Grid |
+|[1041](https://leetcode.com/problems/robot-bounded-in-circle/)|   Robot Bounded In Circle |
