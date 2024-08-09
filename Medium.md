@@ -155,3 +155,4 @@
 |[840](https://leetcode.com/problems/magic-squares-in-grid/)|   Magic Squares In Grid |
 |[1041](https://leetcode.com/problems/robot-bounded-in-circle/)|   Robot Bounded In Circle |
 |[240](https://leetcode.com/problems/search-a-2d-matrix-ii/)|   Search a 2D Matrix II |
+|[8](https://leetcode.com/problems/string-to-integer-atoi/)|   String to Integer (atoi) |
