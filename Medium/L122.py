@@ -2,7 +2,7 @@ class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         mp = {}
 
-        def solve(idx, buy):
+        def solve(idx, buy=True):
             if idx >= len(prices):
                 return 0
 
@@ -11,10 +11,10 @@ class Solution:
                 return mp[key]
 
             if buy:
-                mp[key] = max(-prices[idx] + solve(idx + 1, False), solve(idx + 1, True))
+                mp[key] = max(-prices[idx] + solve(idx + 1, not buy), solve(idx + 1, buy))
             else:
-                mp[key] = max(prices[idx] + solve(idx + 1, True), solve(idx + 1, False))
+                mp[key] = max(prices[idx] + solve(idx + 1, not buy), solve(idx + 1, buy))
 
             return mp[key]
 
-        return solve(0, True)
+        return solve(0)
