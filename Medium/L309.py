@@ -8,12 +8,11 @@ class Solution:
             key = (idx, buy)
             if key in mp:
                 return mp[key]
-            
+
             if buy:
                 mp[key] = max(-prices[idx] + solve(idx + 1, not buy), solve(idx + 1, buy))
-                return mp[key]
-            
-            mp[key] = max(prices[idx] + solve(idx + 2, not buy), solve(idx + 1, buy))
+            else:
+                mp[key] = max(prices[idx] + solve(idx + 2, not buy), solve(idx + 1, buy))
             return mp[key]
-        
+
         return solve(0)
