@@ -157,3 +157,5 @@
 |[240](https://leetcode.com/problems/search-a-2d-matrix-ii/)|   Search a 2D Matrix II |
 |[8](https://leetcode.com/problems/string-to-integer-atoi/)|   String to Integer (atoi) |
 |[122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|   Best Time to Buy and Sell Stock II |
+|[714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|  Best Time to Buy and Sell Stock with Transaction Fee |
+|[309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|  Best Time to Buy and Sell Stock with Cooldown |
