@@ -72,3 +72,4 @@
 |[2053](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|    Kth Distinct String in an Array |
 |[868](https://leetcode.com/problems/binary-gap/)|    Binary Gap |
 |[2455](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|    Average Value of Even Numbers That Are Divisible by Three |
+|[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|    Best Time to Buy and Sell Stock |
