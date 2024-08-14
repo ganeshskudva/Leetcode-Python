@@ -168,3 +168,4 @@
 |[279](https://leetcode.com/problems/perfect-squares/)|  Perfect Squares |
 |[322](https://leetcode.com/problems/coin-change/)|  Coin Change |
 |[518](https://leetcode.com/problems/coin-change-ii/)|  Coin Change II |
+|[983](https://leetcode.com/problems/minimum-cost-for-tickets/)|  Minimum Cost For Tickets |
