@@ -170,3 +170,4 @@
 |[518](https://leetcode.com/problems/coin-change-ii/)|  Coin Change II |
 |[983](https://leetcode.com/problems/minimum-cost-for-tickets/)|  Minimum Cost For Tickets |
 |[624](https://leetcode.com/problems/maximum-distance-in-arrays/)|  Maximum Distance in Arrays |
+|[2266](https://leetcode.com/problems/count-number-of-texts/)|  Count Number of Texts |
