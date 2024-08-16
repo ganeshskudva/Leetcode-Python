@@ -171,3 +171,4 @@
 |[983](https://leetcode.com/problems/minimum-cost-for-tickets/)|  Minimum Cost For Tickets |
 |[624](https://leetcode.com/problems/maximum-distance-in-arrays/)|  Maximum Distance in Arrays |
 |[2266](https://leetcode.com/problems/count-number-of-texts/)|  Count Number of Texts |
+|[397](https://leetcode.com/problems/integer-replacement/description/)|  Integer Replacement |
