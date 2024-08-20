@@ -180,3 +180,4 @@
 |[2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| Delete the Middle Node of a Linked List |
 |[877](https://leetcode.com/problems/stone-game/)| Stone Game |
 |[1140](https://leetcode.com/problems/stone-game-ii/)| Stone Game II |
+|[1686](https://leetcode.com/problems/stone-game-vi/)| Stone Game VI |
