@@ -40,3 +40,4 @@
 |[1224](https://leetcode.com/problems/maximum-equal-frequency/)| Maximum Equal Frequency|
 |[1406](https://leetcode.com/problems/stone-game-iii/)| Stone Game III|
 |[1510](https://leetcode.com/problems/stone-game-iv/)| Stone Game IV|
+|[1872](https://leetcode.com/problems/stone-game-viii/)| Stone Game VIII|
