@@ -176,3 +176,4 @@
 |[416](https://leetcode.com/problems/partition-equal-subset-sum/)| Partition Equal Subset Sum |
 |[650](https://leetcode.com/problems/2-keys-keyboard/)| 2 Keys Keyboard |
 |[1937](https://leetcode.com/problems/maximum-number-of-points-with-cost/)| Maximum Number of Points with Cost |
+|[1140](https://leetcode.com/problems/stone-game-ii/)| Stone Game II |
