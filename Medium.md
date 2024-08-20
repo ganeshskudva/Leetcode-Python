@@ -182,3 +182,4 @@
 |[1140](https://leetcode.com/problems/stone-game-ii/)| Stone Game II |
 |[1686](https://leetcode.com/problems/stone-game-vi/)| Stone Game VI |
 |[1690](https://leetcode.com/problems/stone-game-vii/)| Stone Game VII |
+|[2029](https://leetcode.com/problems/stone-game-ix/)| Stone Game IX |
