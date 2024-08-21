@@ -183,3 +183,4 @@
 |[1686](https://leetcode.com/problems/stone-game-vi/)| Stone Game VI |
 |[1690](https://leetcode.com/problems/stone-game-vii/)| Stone Game VII |
 |[2029](https://leetcode.com/problems/stone-game-ix/)| Stone Game IX |
+|[2101](https://leetcode.com/problems/detonate-the-maximum-bombs/)| Detonate the Maximum Bombs |
