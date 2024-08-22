@@ -75,3 +75,4 @@
 |[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|    Best Time to Buy and Sell Stock |
 |[338](https://leetcode.com/problems/counting-bits/)|    Counting Bits |
 |[171](https://leetcode.com/problems/excel-sheet-column-number/)|    Excel Sheet Column Number |
+|[359](https://leetcode.com/problems/logger-rate-limiter/)|    Logger Rate Limiter |
