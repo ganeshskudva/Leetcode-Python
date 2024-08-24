@@ -188,4 +188,5 @@
 |[592](https://leetcode.com/problems/fraction-addition-and-subtraction/)| Fraction Addition and Subtraction |
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray |
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths |
-|[63](https://leetcode.com/problems/unique-paths-ii/)| UUnique Paths II |
+|[63](https://leetcode.com/problems/unique-paths-ii/)| Unique Paths II |
+|[1143](https://leetcode.com/problems/longest-common-subsequence/)| Longest Common Subsequence |
