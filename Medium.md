@@ -190,3 +190,4 @@
 |[62](https://leetcode.com/problems/unique-paths/)| Unique Paths |
 |[63](https://leetcode.com/problems/unique-paths-ii/)| Unique Paths II |
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)| Longest Common Subsequence |
+|[494](https://leetcode.com/problems/target-sum/)| Target Sum |
