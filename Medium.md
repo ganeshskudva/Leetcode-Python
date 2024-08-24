@@ -186,3 +186,4 @@
 |[2101](https://leetcode.com/problems/detonate-the-maximum-bombs/)| Detonate the Maximum Bombs |
 |[688](https://leetcode.com/problems/knight-probability-in-chessboard/)| Knight Probability in Chessboard |
 |[592](https://leetcode.com/problems/fraction-addition-and-subtraction/)| Fraction Addition and Subtraction |
+|[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray |
