@@ -187,3 +187,4 @@
 |[688](https://leetcode.com/problems/knight-probability-in-chessboard/)| Knight Probability in Chessboard |
 |[592](https://leetcode.com/problems/fraction-addition-and-subtraction/)| Fraction Addition and Subtraction |
 |[152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray |
+|[52](https://leetcode.com/problems/unique-paths/)| Unique Paths |
