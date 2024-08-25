@@ -76,3 +76,4 @@
 |[338](https://leetcode.com/problems/counting-bits/)|    Counting Bits |
 |[171](https://leetcode.com/problems/excel-sheet-column-number/)|    Excel Sheet Column Number |
 |[359](https://leetcode.com/problems/logger-rate-limiter/)|    Logger Rate Limiter |
+|[145](https://leetcode.com/problems/binary-tree-postorder-traversal/)|    Binary Tree Postorder Traversal |
