@@ -77,3 +77,4 @@
 |[171](https://leetcode.com/problems/excel-sheet-column-number/)|    Excel Sheet Column Number |
 |[359](https://leetcode.com/problems/logger-rate-limiter/)|    Logger Rate Limiter |
 |[145](https://leetcode.com/problems/binary-tree-postorder-traversal/)|    Binary Tree Postorder Traversal |
+|[590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|    N-ary Tree Postorder Traversal |
