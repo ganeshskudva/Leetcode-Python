@@ -192,3 +192,4 @@
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)| Longest Common Subsequence |
 |[494](https://leetcode.com/problems/target-sum/)| Target Sum |
 |[97](https://leetcode.com/problems/interleaving-string/)| Interleaving String |
+|[72](https://leetcode.com/problems/edit-distance/)| Edit Distance |
