@@ -194,3 +194,4 @@
 |[97](https://leetcode.com/problems/interleaving-string/)| Interleaving String |
 |[72](https://leetcode.com/problems/edit-distance/)| Edit Distance |
 |[1514](https://leetcode.com/problems/path-with-maximum-probability/)| Path with Maximum Probability |
+|[947](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)| Most Stones Removed with Same Row or Column |
