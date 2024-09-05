@@ -196,3 +196,4 @@
 |[1514](https://leetcode.com/problems/path-with-maximum-probability/)| Path with Maximum Probability |
 |[947](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)| Most Stones Removed with Same Row or Column |
 |[1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)| Find the Student that Will Replace the Chalk |
+|[2028](https://leetcode.com/problems/find-missing-observations/)| Find Missing Observations |
