@@ -198,3 +198,4 @@
 |[1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)| Find the Student that Will Replace the Chalk |
 |[2028](https://leetcode.com/problems/find-missing-observations/)| Find Missing Observations |
 |[55](https://leetcode.com/problems/jump-game/)| Jump Game |
+|[725](https://leetcode.com/problems/split-linked-list-in-parts/)| Split Linked List in Parts |
