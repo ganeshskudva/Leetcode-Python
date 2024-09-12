@@ -84,3 +84,4 @@
 |[876](https://leetcode.com/problems/middle-of-the-linked-list/)|     Middle of the Linked List |
 |[203](https://leetcode.com/problems/remove-linked-list-elements/)|     Remove Linked List Elements |
 |[83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|     Remove Duplicates from Sorted List |
+|[1684](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|     Count the Number of Consistent Strings |
