@@ -205,3 +205,4 @@
 |[19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Remove Nth Node From End of List |
 |[138](https://leetcode.com/problems/copy-list-with-random-pointer/)| Copy List with Random Pointer |
 |[142](https://leetcode.com/problems/linked-list-cycle-ii/)| Linked List Cycle II |
+|[1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)| Minimum Time to Make Rope Colorful |
