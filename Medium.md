@@ -207,3 +207,4 @@
 |[142](https://leetcode.com/problems/linked-list-cycle-ii/)| Linked List Cycle II |
 |[1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)| Minimum Time to Make Rope Colorful |
 |[1310](https://leetcode.com/problems/xor-queries-of-a-subarray/)| XOR Queries of a Subarray |
+|[1615](https://leetcode.com/problems/maximal-network-rank/)| Maximal Network Rank |
