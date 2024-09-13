@@ -47,3 +47,4 @@
 |[10](https://leetcode.com/problems/regular-expression-matching/)| Regular Expression Matching|
 |[312](https://leetcode.com/problems/burst-balloons/)| Burst Balloons|
 |[115](https://leetcode.com/problems/distinct-subsequences/)| Distinct Subsequences|
+|[1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)| Shortest Path in a Grid with Obstacles Elimination|
