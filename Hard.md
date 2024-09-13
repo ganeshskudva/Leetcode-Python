@@ -48,3 +48,4 @@
 |[312](https://leetcode.com/problems/burst-balloons/)| Burst Balloons|
 |[115](https://leetcode.com/problems/distinct-subsequences/)| Distinct Subsequences|
 |[1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)| Shortest Path in a Grid with Obstacles Elimination|
+|[1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)| Maximum Profit in Job Scheduling|
