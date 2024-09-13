@@ -208,3 +208,4 @@
 |[1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)| Minimum Time to Make Rope Colorful |
 |[1310](https://leetcode.com/problems/xor-queries-of-a-subarray/)| XOR Queries of a Subarray |
 |[1615](https://leetcode.com/problems/maximal-network-rank/)| Maximal Network Rank |
+|[38](https://leetcode.com/problems/count-and-say/)| Count and Say |
