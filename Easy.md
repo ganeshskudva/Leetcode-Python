@@ -89,3 +89,4 @@
 |[160](https://leetcode.com/problems/intersection-of-two-linked-lists/)|     Intersection of Two Linked Lists |
 |[1189](https://leetcode.com/problems/maximum-number-of-balloons/)|     Maximum Number of Balloons |
 |[2325](https://leetcode.com/problems/decode-the-message/)|     Decode the Message |
+|[20](https://leetcode.com/problems/valid-parentheses/)|     Valid Parentheses |
