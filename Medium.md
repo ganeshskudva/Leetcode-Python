@@ -211,3 +211,4 @@
 |[38](https://leetcode.com/problems/count-and-say/)| Count and Say |
 |[490](https://leetcode.com/problems/the-maze/)| The Maze |
 |[2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)| Longest Subarray With Maximum Bitwise AND |
+|[139](https://leetcode.com/problems/word-break/)| Word Break |
