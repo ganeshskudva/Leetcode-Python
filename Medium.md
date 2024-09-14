@@ -210,3 +210,4 @@
 |[1615](https://leetcode.com/problems/maximal-network-rank/)| Maximal Network Rank |
 |[38](https://leetcode.com/problems/count-and-say/)| Count and Say |
 |[490](https://leetcode.com/problems/the-maze/)| The Maze |
+|[2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)| Longest Subarray With Maximum Bitwise AND |
