@@ -90,3 +90,4 @@
 |[1189](https://leetcode.com/problems/maximum-number-of-balloons/)|     Maximum Number of Balloons |
 |[2325](https://leetcode.com/problems/decode-the-message/)|     Decode the Message |
 |[20](https://leetcode.com/problems/valid-parentheses/)|     Valid Parentheses |
+|[242](https://leetcode.com/problems/valid-anagram/)|     Valid Anagram |
