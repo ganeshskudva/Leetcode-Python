@@ -51,3 +51,4 @@
 |[1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)| Maximum Profit in Job Scheduling|
 |[282](https://leetcode.com/problems/expression-add-operators/)| Expression Add Operators|
 |[465](https://leetcode.com/problems/optimal-account-balancing/)| Optimal Account Balancing|
+|[2302](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/)| Count Subarrays With Score Less Than K|
