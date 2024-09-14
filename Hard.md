@@ -55,3 +55,4 @@
 |[332](https://leetcode.com/problems/reconstruct-itinerary/)| Reconstruct Itinerary|
 |[44](https://leetcode.com/problems/wildcard-matching/)| Wildcard Matching|
 |[140](https://leetcode.com/problems/word-break-ii/)| Word Break II|
+|[1312](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)| Minimum Insertion Steps to Make a String Palindrome|
