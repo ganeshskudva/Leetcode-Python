@@ -222,3 +222,4 @@
 [658](https://leetcode.com/problems/find-k-closest-elements/)| Find K Closest Elements |
 [54](https://leetcode.com/problems/spiral-matrix/)|  Spiral Matrix |
 [443](https://leetcode.com/problems/string-compression/)|  String Compression |
+[1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)|  Frequency of the Most Frequent Element |
