@@ -231,3 +231,4 @@
 [159](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|  Longest Substring with At Most Two Distinct Characters |
 [340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|  Longest Substring with At Most K Distinct Characters |
 [2831](https://leetcode.com/problems/find-the-longest-equal-subarray/)|  Find the Longest Equal Subarray |
+[179](https://leetcode.com/problems/largest-number/)|  Largest Number |
