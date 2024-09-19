@@ -233,3 +233,4 @@
 [2831](https://leetcode.com/problems/find-the-longest-equal-subarray/)|  Find the Longest Equal Subarray |
 [179](https://leetcode.com/problems/largest-number/)|  Largest Number |
 [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|  Maximum Length of a Concatenated String with Unique Characters |
+[241](https://leetcode.com/problems/different-ways-to-add-parentheses/)|  Different Ways to Add Parentheses |
