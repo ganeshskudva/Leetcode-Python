@@ -237,3 +237,4 @@
 [311](https://leetcode.com/problems/sparse-matrix-multiplication/)|  Sparse Matrix Multiplication |
 [792](https://leetcode.com/problems/number-of-matching-subsequences/)|  Number of Matching Subsequences |
 [1055](https://leetcode.com/problems/shortest-way-to-form-string/)|  Shortest Way to Form String |
+[386](https://leetcode.com/problems/lexicographical-numbers/)|  Lexicographical Numbers |
