@@ -239,3 +239,4 @@
 [1055](https://leetcode.com/problems/shortest-way-to-form-string/)|  Shortest Way to Form String |
 [386](https://leetcode.com/problems/lexicographical-numbers/)|  Lexicographical Numbers |
 [1996](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|  The Number of Weak Characters in the Game |
+[540](https://leetcode.com/problems/single-element-in-a-sorted-array/)|  Single Element in a Sorted Array |
