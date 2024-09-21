@@ -59,3 +59,4 @@
 |[214](https://leetcode.com/problems/shortest-palindrome/)| Shortest Palindrome|
 |[2402](https://leetcode.com/problems/meeting-rooms-iii/)| Meeting Rooms III|
 |[460](https://leetcode.com/problems/lfu-cache/)| LFU Cache|
+|[642](https://leetcode.com/problems/design-search-autocomplete-system/)| Design Search Autocomplete System|
