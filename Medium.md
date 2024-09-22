@@ -242,3 +242,4 @@
 [540](https://leetcode.com/problems/single-element-in-a-sorted-array/)|  Single Element in a Sorted Array |
 [785](https://leetcode.com/problems/is-graph-bipartite/)|  Is Graph Bipartite? |
 [2008](https://leetcode.com/problems/maximum-earnings-from-taxi/)|  Maximum Earnings From Taxi |
+[505](https://leetcode.com/problems/the-maze-ii/)|  The Maze II |
