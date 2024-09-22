@@ -1,43 +1,47 @@
 class Solution:
     def hasPath(self, maze: List[List[int]], start: List[int], destination: List[int]) -> bool:
-        # Define the four possible movement directions (right, down, left, up)
+        # Define the possible directions in which the ball can roll: right, down, left, up
         dirs = [[0, 1], [1, 0], [0, -1], [-1, 0]]
         
-        # Initialize a set 'vis' to track visited positions, and get dimensions of the maze (m rows, n columns)
-        vis, m, n = set(), len(maze), len(maze[0])
+        # `vis` keeps track of visited positions in the maze to prevent re-processing the same position
+        vis = set()  # A set to store visited cells
+        m, n = len(maze), len(maze[0])  # `m` is the number of rows, `n` is the number of columns in the maze
 
-        # Helper function to check if a given position (r, c) is valid (in bounds and not a wall)
+        # Helper function to check if a position (r, c) is within bounds and not a wall (value 1)
         def is_valid(r, c):
+            # Return True if (r, c) is a valid position (inside maze and not a wall)
             return 0 <= r < m and 0 <= c < n and maze[r][c] != 1
 
-        # Recursive DFS function that attempts to find a path from (x, y)
+        # Recursive function to explore the maze
+        # It takes the current position (x, y) as input, starting from the initial start point
         def solve(x=start[0], y=start[1]):
-            # Create a key (tuple) for the current position (x, y)
-            key = (x, y)
+            key = (x, y)  # Current position key (tuple) to mark as visited
 
-            # If this position has already been visited, return False (avoid cycles)
+            # If the current position has already been visited, return False (don't re-process it)
             if key in vis:
                 return False
 
-            # If the current position matches the destination, return True (path found)
+            # If the current position matches the destination, return True (found a path)
             if x == destination[0] and y == destination[1]:
                 return True
 
             # Mark the current position as visited
             vis.add(key)
 
-            # Try moving in all four possible directions (defined in 'dirs')
+            # Try to move in all four possible directions
             for dx, dy in dirs:
-                # Initialize row and col to current position (x, y)
-                row, col = x, y
-
-                # Continue moving in the direction (dx, dy) until hitting a wall or going out of bounds
+                row, col = x, y  # Start from the current position
+                
+                # Keep moving in the current direction (dx, dy) until we hit a wall or the boundary of the maze
                 while is_valid(row + dx, col + dy):
-                    row, col = row + dx, col + dy
+                    row, col = row + dx, col + dy  # Update to the next valid position
 
-                # Recursively try to solve from the new stopped position
+                # After reaching the farthest point in the current direction, recursively solve from there
                 if solve(row, col):
-                    return True
+                    return True  # If a valid path to the destination is found, return True
+            
+            # If no valid path is found from this position, return False
+            return False
 
-        # Start the DFS search from the start position
+        # Start the recursive solving from the start position
         return solve()
