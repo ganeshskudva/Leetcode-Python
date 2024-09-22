@@ -1,42 +1,45 @@
+from collections import defaultdict
+
 class Solution:
     def minTransfers(self, transactions: List[List[int]]) -> int:
-        # Initialize a defaultdict to keep track of each person's net balance
-        # mp[s] -= a means person 's' loses 'a' amount
-        # mp[d] += a means person 'd' gains 'a' amount
         mp = defaultdict(int)
-
-        # Process each transaction: update balances of sender (s) and receiver (d)
+        
+        # Step 1: Calculate net balances for all people based on transactions.
+        # If someone is a sender (s), subtract the amount from their balance.
+        # If someone is a receiver (d), add the amount to their balance.
         for s, d, a in transactions:
-            mp[s] -= a
-            mp[d] += a
+            mp[s] -= a  # Sender sends money, reducing their balance
+            mp[d] += a  # Receiver receives money, increasing their balance
+        
+        # Step 2: Create a list of non-zero balances (debts).
+        # Only include people who owe money or are owed money.
+        debt = [bal for bal in mp.values() if bal != 0]
 
-        # Create a list of net balances (debt) from the dictionary values
-        debt = list(mp.values())
-
-        # Recursive function to minimize the number of transactions
+        # Recursive helper function to minimize the number of transactions required
         def solve(idx=0):
-            res = float('inf')  # Initialize result to infinity, since we are minimizing transactions
-            
-            # Skip over any indices where the balance is already zero (no debt for that person)
-            while idx < len(debt) and debt[idx] == 0:
-                idx += 1
-
-            # If we have processed all people, return 0 because no further transactions are needed
+            # If all debts have been settled (i.e., all debts processed), return 0 transactions
             if idx == len(debt):
                 return 0
-
-            # Try to find the minimum number of transactions by settling the current debt with other people
+            
+            # Skip settled debts (balance of 0), continue to the next debt
+            if debt[idx] == 0:
+                return solve(idx + 1)
+            
+            res = float('inf')  # Set result to a large number to find the minimum transactions
+            
+            # Try to settle debt[idx] with any other person who has an opposite balance
             for i in range(idx + 1, len(debt)):
-                # Only attempt to settle if the debts have opposite signs (one owes, the other is owed)
-                if debt[idx] * debt[i] < 0:
-                    # Attempt to settle the debt by transferring the amount between idx and i
-                    debt[i] += debt[idx]  # Settle the debt at index idx with person i
-                    # Recursively solve for the remaining debts and count this transaction
+                # Only settle with people who have the opposite sign in their balance
+                if debt[idx] * debt[i] < 0:  # One owes money, the other is owed money
+                    # Settle debt[idx] with debt[i]
+                    debt[i] += debt[idx]  # Add debt[idx] to debt[i], settling part of the debt
+                    
+                    # Recursively solve the remaining debts and count this settlement as 1 transaction
                     res = min(res, 1 + solve(idx + 1))
-                    # Backtrack: undo the transaction to explore other possibilities
+                    
+                    # Backtrack: undo the settlement to explore other possibilities
                     debt[i] -= debt[idx]
+            
+            return res  # Return the minimum number of transactions found
 
-            return res
-
-        # Call the recursive function starting from index 0 and return the result
-        return solve()
+        return solve()  # Start solving from the first debt (index 0)
