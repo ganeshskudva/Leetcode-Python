@@ -245,3 +245,4 @@
 [505](https://leetcode.com/problems/the-maze-ii/)|  The Maze II |
 [487](https://leetcode.com/problems/max-consecutive-ones-ii/)|  Max Consecutive Ones II |
 [1004](https://leetcode.com/problems/max-consecutive-ones-iii/)|  Max Consecutive Ones III |
+|[503](https://leetcode.com/problems/next-greater-element-ii/)|      Next Greater Element II |

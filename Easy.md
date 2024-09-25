@@ -95,4 +95,4 @@
 |[884](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|     Uncommon Words from Two Sentences |
 |[703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|     Kth Largest Element in a Stream |
 |[485](https://leetcode.com/problems/max-consecutive-ones/)|     Max Consecutive Ones |
-|[503](https://leetcode.com/problems/next-greater-element-i/)|      Next Greater Element I |
+|[496](https://leetcode.com/problems/next-greater-element-i/)|      Next Greater Element I |
