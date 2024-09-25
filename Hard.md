@@ -62,3 +62,4 @@
 |[642](https://leetcode.com/problems/design-search-autocomplete-system/)| Design Search Autocomplete System|
 |[127](https://leetcode.com/problems/word-ladder/)| Word Ladder|
 |[440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)| K-th Smallest in Lexicographical Order|
+|[2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)| Sum of Prefix Scores of Strings|
