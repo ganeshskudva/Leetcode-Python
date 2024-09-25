@@ -247,3 +247,4 @@
 [1004](https://leetcode.com/problems/max-consecutive-ones-iii/)|  Max Consecutive Ones III |
 |[503](https://leetcode.com/problems/next-greater-element-ii/)|      Next Greater Element II |
 |[556](https://leetcode.com/problems/next-greater-element-iii/)|      Next Greater Element III |
+|[31](https://leetcode.com/problems/next-permutation/)|      Next Permutation |
