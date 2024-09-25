@@ -243,3 +243,4 @@
 [785](https://leetcode.com/problems/is-graph-bipartite/)|  Is Graph Bipartite? |
 [2008](https://leetcode.com/problems/maximum-earnings-from-taxi/)|  Maximum Earnings From Taxi |
 [505](https://leetcode.com/problems/the-maze-ii/)|  The Maze II |
+[1004](https://leetcode.com/problems/max-consecutive-ones-iii/)|  Max Consecutive Ones III |
