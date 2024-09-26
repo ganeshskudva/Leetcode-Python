@@ -249,3 +249,4 @@
 |[556](https://leetcode.com/problems/next-greater-element-iii/)|      Next Greater Element III |
 |[31](https://leetcode.com/problems/next-permutation/)|      Next Permutation |
 |[2408](https://leetcode.com/problems/design-sql/)|      Design SQL |
+|[450](https://leetcode.com/problems/delete-node-in-a-bst/)|      Delete Node in a BST |
