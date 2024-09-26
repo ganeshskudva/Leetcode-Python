@@ -248,3 +248,4 @@
 |[503](https://leetcode.com/problems/next-greater-element-ii/)|      Next Greater Element II |
 |[556](https://leetcode.com/problems/next-greater-element-iii/)|      Next Greater Element III |
 |[31](https://leetcode.com/problems/next-permutation/)|      Next Permutation |
+|[2408](https://leetcode.com/problems/design-sql/)|      Design SQL |
