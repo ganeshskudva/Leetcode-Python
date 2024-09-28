@@ -96,3 +96,4 @@
 |[703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|     Kth Largest Element in a Stream |
 |[485](https://leetcode.com/problems/max-consecutive-ones/)|     Max Consecutive Ones |
 |[496](https://leetcode.com/problems/next-greater-element-i/)|      Next Greater Element I |
+|[35](https://leetcode.com/problems/search-insert-position/)|      Search Insert Position |
