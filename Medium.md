@@ -262,3 +262,4 @@
 |[394](https://leetcode.com/problems/decode-string/)|      Decode String |
 |[875](https://leetcode.com/problems/koko-eating-bananas/)|      Koko Eating Bananas |
 |[92](https://leetcode.com/problems/reverse-linked-list-ii/)|      Reverse Linked List II |
+|[2049](https://leetcode.com/problems/count-nodes-with-the-highest-score/)|      Count Nodes With the Highest Score |
