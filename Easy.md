@@ -97,3 +97,4 @@
 |[485](https://leetcode.com/problems/max-consecutive-ones/)|     Max Consecutive Ones |
 |[496](https://leetcode.com/problems/next-greater-element-i/)|      Next Greater Element I |
 |[35](https://leetcode.com/problems/search-insert-position/)|      Search Insert Position |
+|[374](https://leetcode.com/problems/guess-number-higher-or-lower/)|      Guess Number Higher or Lower |
