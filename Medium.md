@@ -255,3 +255,4 @@
 |[641](https://leetcode.com/problems/design-circular-deque/)|      Design Circular Deque |
 |[1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|      Capacity To Ship Packages Within D Days |
 |[162](https://leetcode.com/problems/find-peak-element/)|      Find Peak Element |
+|[2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|      Successful Pairs of Spells and Potions |
