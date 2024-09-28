@@ -259,3 +259,4 @@
 |[1268](https://leetcode.com/problems/search-suggestions-system/)|      Search Suggestions System |
 |[74](https://leetcode.com/problems/search-a-2d-matrix/)|      Search a 2D Matrix |
 |[73](https://leetcode.com/problems/set-matrix-zeroes/)|      Set Matrix Zeroes |
+|[394](https://leetcode.com/problems/decode-string/)|      Decode String |
