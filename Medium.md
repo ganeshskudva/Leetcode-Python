@@ -267,3 +267,4 @@
 |[18](https://leetcode.com/problems/4sum/)|      4Sum |
 |[81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|      Search in Rotated Sorted Array II |
 |[116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|      Populating Next Right Pointers in Each Node |
+|[852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|      Peak Index in a Mountain Array |
