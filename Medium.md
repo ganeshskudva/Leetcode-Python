@@ -273,3 +273,4 @@
 |[229](https://leetcode.com/problems/majority-element-ii/)|      Majority Element II |
 |[863](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|      All Nodes Distance K in Binary Tree |
 |[1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)|      Check If Array Pairs Are Divisible by k |
+|[362](https://leetcode.com/problems/design-hit-counter/)|      Design Hit Counter |
