@@ -101,3 +101,4 @@
 |[977](https://leetcode.com/problems/squares-of-a-sorted-array/)|      Squares of a Sorted Array |
 |[367](https://leetcode.com/problems/valid-perfect-square/)|      Valid Perfect Square |
 |[69](https://leetcode.com/problems/sqrtx/)|      Sqrt(x) |
+|[1331](https://leetcode.com/problems/rank-transform-of-an-array/)|      Rank Transform of an Array |
