@@ -65,3 +65,4 @@
 |[2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)| Sum of Prefix Scores of Strings|
 |[432](https://leetcode.com/problems/all-oone-data-structure/)| All O`one Data Structure|
 |[410](https://leetcode.com/problems/split-array-largest-sum/)| Split Array Largest Sum|
+|[68](https://leetcode.com/problems/text-justification/)| Text Justification|
