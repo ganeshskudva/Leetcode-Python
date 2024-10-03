@@ -274,3 +274,4 @@
 |[863](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|      All Nodes Distance K in Binary Tree |
 |[1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)|      Check If Array Pairs Are Divisible by k |
 |[362](https://leetcode.com/problems/design-hit-counter/)|      Design Hit Counter |
+|[1590](https://leetcode.com/problems/make-sum-divisible-by-p/)|      Make Sum Divisible by P |
