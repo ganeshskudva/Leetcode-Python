@@ -275,3 +275,4 @@
 |[1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)|      Check If Array Pairs Are Divisible by k |
 |[362](https://leetcode.com/problems/design-hit-counter/)|      Design Hit Counter |
 |[1590](https://leetcode.com/problems/make-sum-divisible-by-p/)|      Make Sum Divisible by P |
+|[2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)|      Divide Players Into Teams of Equal Skill |
