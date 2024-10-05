@@ -281,3 +281,4 @@
 |[1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|      Maximum Number of Vowels in a Substring of Given Length |
 |[1888](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)|      Minimum Number of Flips to Make the Binary String Alternating |
 |[1658](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|      Minimum Operations to Reduce X to Zero |
+|[1208](https://leetcode.com/problems/get-equal-substrings-within-budget/)|      Get Equal Substrings Within Budget |
