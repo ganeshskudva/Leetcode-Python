@@ -279,3 +279,4 @@
 |[581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|      Shortest Unsorted Continuous Subarray |
 |[1343](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|      Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold |
 |[1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|      Maximum Number of Vowels in a Substring of Given Length |
+|[1888](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)|      Minimum Number of Flips to Make the Binary String Alternating |
