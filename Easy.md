@@ -104,3 +104,4 @@
 |[1331](https://leetcode.com/problems/rank-transform-of-an-array/)|      Rank Transform of an Array |
 |[219](https://leetcode.com/problems/contains-duplicate-ii/)|      Contains Duplicate II |
 |[463](https://leetcode.com/problems/island-perimeter/)|      Island Perimeter |
+|[953](https://leetcode.com/problems/verifying-an-alien-dictionary/)|      Verifying an Alien Dictionary |
