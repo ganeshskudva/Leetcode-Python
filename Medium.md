@@ -288,3 +288,4 @@
 |[2962](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)|      Count Subarrays Where Max Element Appears at Least K Times |
 |[1813](https://leetcode.com/problems/sentence-similarity-iii/)|      Sentence Similarity III |
 |[133](https://leetcode.com/problems/clone-graph/)|      Clone Graph |
+|[419](https://leetcode.com/problems/battleships-in-a-board/)|      Battleships in a Board |
