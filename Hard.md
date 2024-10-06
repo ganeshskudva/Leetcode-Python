@@ -66,3 +66,4 @@
 |[432](https://leetcode.com/problems/all-oone-data-structure/)| All O`one Data Structure|
 |[410](https://leetcode.com/problems/split-array-largest-sum/)| Split Array Largest Sum|
 |[68](https://leetcode.com/problems/text-justification/)| Text Justification|
+|[992](https://leetcode.com/problems/subarrays-with-k-different-integers/)| Subarrays with K Different Integers|
