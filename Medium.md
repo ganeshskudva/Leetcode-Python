@@ -290,3 +290,4 @@
 |[133](https://leetcode.com/problems/clone-graph/)|      Clone Graph |
 |[419](https://leetcode.com/problems/battleships-in-a-board/)|      Battleships in a Board |
 |[130](https://leetcode.com/problems/surrounded-regions/)|      Surrounded Regions |
+|[1466](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|      Reorder Routes to Make All Paths Lead to the City Zero |
