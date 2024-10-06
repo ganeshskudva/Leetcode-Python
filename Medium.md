@@ -284,3 +284,4 @@
 |[1208](https://leetcode.com/problems/get-equal-substrings-within-budget/)|      Get Equal Substrings Within Budget |
 |[930](https://leetcode.com/problems/binary-subarrays-with-sum/)|      Binary Subarrays With Sum |
 |[713](https://leetcode.com/problems/subarray-product-less-than-k/)|      Subarray Product Less Than K |
+|[2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)|      Length of Longest Subarray With at Most K Frequency |
