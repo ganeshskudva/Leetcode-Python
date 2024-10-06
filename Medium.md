@@ -293,3 +293,4 @@
 |[1466](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|      Reorder Routes to Make All Paths Lead to the City Zero |
 |[909](https://leetcode.com/problems/snakes-and-ladders/)|      Snakes and Ladders |
 |[752](https://leetcode.com/problems/open-the-lock/)|      Open the Lock |
+|[802](https://leetcode.com/problems/find-eventual-safe-states/)|      Find Eventual Safe States |
