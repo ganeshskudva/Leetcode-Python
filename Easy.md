@@ -107,3 +107,4 @@
 |[953](https://leetcode.com/problems/verifying-an-alien-dictionary/)|      Verifying an Alien Dictionary |
 |[997](https://leetcode.com/problems/find-the-town-judge/)|      Find the Town Judge |
 |[2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)|      Minimum String Length After Removing Substrings |
+|[819](https://leetcode.com/problems/most-common-word/)|      Most Common Word |
