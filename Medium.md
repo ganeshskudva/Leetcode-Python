@@ -295,3 +295,4 @@
 |[752](https://leetcode.com/problems/open-the-lock/)|      Open the Lock |
 |[802](https://leetcode.com/problems/find-eventual-safe-states/)|      Find Eventual Safe States |
 |[1462](https://leetcode.com/problems/course-schedule-iv/)|      Course Schedule IV |
+|[1358](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|      Number of Substrings Containing All Three Characters |
