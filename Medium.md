@@ -297,3 +297,4 @@
 |[1462](https://leetcode.com/problems/course-schedule-iv/)|      Course Schedule IV |
 |[1358](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)|      Number of Substrings Containing All Three Characters |
 |[1963](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|      Minimum Number of Swaps to Make the String Balanced |
+|[1152](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|      Analyze User Website Visit Pattern |
