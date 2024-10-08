@@ -1,3 +1,33 @@
+## Greedy
+
+class Solution:
+    def canJump(self, nums: List[int]) -> bool:
+        # Initialize the maximum index we can reach from the starting point
+        mx = nums[0]
+        
+        # Iterate through the array starting from index 1
+        for i in range(1, len(nums)):
+            # If the maximum index we can reach is less than the current index, return False
+            if mx < i:
+                return False
+            
+            # Update the maximum index we can reach by jumping from the current index
+            mx = max(mx, i + nums[i])
+        
+        # If we have passed through the loop, it means we can reach the last index, so return True
+        return True
+
+# Time Complexity (TC):
+# - The loop iterates through the list exactly once, updating the maximum reachable index.
+# - Therefore, the time complexity is O(N), where N is the length of the nums array.
+
+# Space Complexity (SC):
+# - The algorithm uses a constant amount of extra space, i.e., the variable 'mx' for storing the maximum reachable index.
+# - No additional data structures are used that depend on the input size.
+# - Therefore, the space complexity is O(1).
+
+## DP
+
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
         # Memoization map to store if we can jump from a specific index
@@ -34,3 +64,17 @@ class Solution:
 
         # Start solving from index 0
         return solve()
+
+# Time Complexity (TC):
+# - The recursion can visit each index at most once because we memoize the result for each index.
+# - For each index, we perform a loop to try all possible jumps from that index.
+# - In the worst case, for each index, we make up to 'nums[i]' recursive calls, which means the overall complexity is O(N^2), where N is the length of the nums array.
+#   However, the memoization reduces the need for redundant calculations.
+# - Worst-case time complexity: O(N^2), but with memoization, this could be closer to O(N) in practical scenarios.
+
+# Space Complexity (SC):
+# - The space complexity is driven by:
+#   1. The recursion stack, which can be at most O(N) deep.
+#   2. The memoization map 'mp' which stores results for each index, contributing O(N) additional space.
+# - Therefore, the overall space complexity is O(N) due to the recursion and memoization map.
+
