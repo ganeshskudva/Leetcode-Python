@@ -300,3 +300,4 @@
 |[1152](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|      Analyze User Website Visit Pattern |
 |[45](https://leetcode.com/problems/jump-game-ii/)|      Jump Game II |
 |[881](https://leetcode.com/problems/boats-to-save-people/)|      Boats to Save People |
+|[1750](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|      Minimum Length of String After Deleting Similar Ends |
