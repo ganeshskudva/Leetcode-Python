@@ -299,3 +299,4 @@
 |[1963](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|      Minimum Number of Swaps to Make the String Balanced |
 |[1152](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|      Analyze User Website Visit Pattern |
 |[45](https://leetcode.com/problems/jump-game-ii/)|      Jump Game II |
+|[881](https://leetcode.com/problems/boats-to-save-people/)|      Boats to Save People |
