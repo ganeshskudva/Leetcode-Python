@@ -108,3 +108,4 @@
 |[997](https://leetcode.com/problems/find-the-town-judge/)|      Find the Town Judge |
 |[2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)|      Minimum String Length After Removing Substrings |
 |[819](https://leetcode.com/problems/most-common-word/)|      Most Common Word |
+|[1313](https://leetcode.com/problems/decompress-run-length-encoded-list/)|      Decompress Run-Length Encoded List |
