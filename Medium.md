@@ -303,3 +303,4 @@
 |[1750](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|      Minimum Length of String After Deleting Similar Ends |
 |[962](https://leetcode.com/problems/maximum-width-ramp/)|      Maximum Width Ramp |
 |[1669](https://leetcode.com/problems/merge-in-between-linked-lists/)|      Merge In Between Linked Lists |
+|[2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|      Maximum Twin Sum of a Linked List |
