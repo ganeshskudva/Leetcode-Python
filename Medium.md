@@ -304,3 +304,5 @@
 |[962](https://leetcode.com/problems/maximum-width-ramp/)|      Maximum Width Ramp |
 |[1669](https://leetcode.com/problems/merge-in-between-linked-lists/)|      Merge In Between Linked Lists |
 |[2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|      Maximum Twin Sum of a Linked List |
+|[2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/)|      Divide Intervals Into Minimum Number of Groups |
+|[1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|      Swapping Nodes in a Linked List |
