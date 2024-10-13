@@ -68,3 +68,4 @@
 |[68](https://leetcode.com/problems/text-justification/)| Text Justification|
 |[992](https://leetcode.com/problems/subarrays-with-k-different-integers/)| Subarrays with K Different Integers|
 |[269](https://leetcode.com/problems/alien-dictionary/)| Alien Dictionary|
+|[632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)| Smallest Range Covering Elements from K Lists|
