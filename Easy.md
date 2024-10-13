@@ -110,3 +110,4 @@
 |[819](https://leetcode.com/problems/most-common-word/)|      Most Common Word |
 |[1313](https://leetcode.com/problems/decompress-run-length-encoded-list/)|      Decompress Run-Length Encoded List |
 |[1893](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)|      Check if All the Integers in a Range Are Covered |
+|[1732](https://leetcode.com/problems/find-the-highest-altitude/)|      Find the Highest Altitude |
