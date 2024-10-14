@@ -29,3 +29,14 @@ class Solution:
         
         # Return the length of the longest subarray with at most 'k' changes needed
         return max_len
+
+# Time Complexity (TC):
+# 1. We iterate through the entire 'nums' array once using the right pointer, which takes O(n).
+# 2. Inside the loop, operations like updating the 'cnt' dictionary and finding the max frequency take O(1) time.
+# 3. The left pointer moves at most 'n' times, but overall the sliding window ensures we only process each element once.
+# Therefore, the overall time complexity is O(n), where 'n' is the length of the input array 'nums'.
+
+# Space Complexity (SC):
+# 1. The 'cnt' dictionary stores the frequency count of elements in the current window, which takes O(n) space in the worst case.
+# 2. Additional variables like 'max_len', 'left', 'n', and 'window_len' take constant space O(1).
+# Therefore, the overall space complexity is O(n), where 'n' is the length of the input array 'nums'.
