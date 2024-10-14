@@ -312,3 +312,4 @@
 |[2021](https://leetcode.com/problems/brightest-position-on-street/)|      Brightest Position on Street |
 |[2237](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/)|      Count Positions on Street With Required Brightness |
 |[1258](https://leetcode.com/problems/synonymous-sentences/)|      Synonymous Sentences |
+|[1352](https://leetcode.com/problems/product-of-the-last-k-numbers/)|      Product of the Last K Numbers |
