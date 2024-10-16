@@ -314,3 +314,4 @@
 |[1258](https://leetcode.com/problems/synonymous-sentences/)|      Synonymous Sentences |
 |[1352](https://leetcode.com/problems/product-of-the-last-k-numbers/)|      Product of the Last K Numbers |
 |[2938](https://leetcode.com/problems/separate-black-and-white-balls/)|      Separate Black and White Balls |
+|[1405](https://leetcode.com/problems/longest-happy-string/)|    Longest Happy String |
