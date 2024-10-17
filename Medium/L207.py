@@ -37,6 +37,18 @@ class Solution:
         # If the number of visited nodes equals the total number of courses, return True
         return len(vis) == numCourses
 
+# Overall Time Complexity (TC):
+# - O(V + E), where V is the number of courses (vertices), and E is the number of prerequisites (edges).
+#   - O(V) to initialize the degree array and queue.
+#   - O(E) to build the adjacency list (graph) and reduce in-degrees.
+#   - The BFS traversal processes each vertex (course) and each edge (prerequisite) at most once.
+
+# Overall Space Complexity (SC):
+# - O(V + E), where V is the number of courses and E is the number of prerequisites.
+#   - O(V) for the degree array, queue, and visited set.
+#   - O(E) for storing the adjacency list in the dictionary.
+
+
 ## DFS
 
 
@@ -78,3 +90,13 @@ class Solution:
         # Time Complexity: O(1) since it checks the length of the set
         # Space Complexity: O(1) since it returns a boolean
         return len(vis) == numCourses
+
+# Overall Time Complexity (TC):
+# O(V + E), where V is the number of courses and E is the number of prerequisites (edges).
+# - We build the graph in O(E).
+# - Each course (node) is processed once, and for each course, we visit its edges (prerequisites), so this leads to O(V + E).
+
+# Overall Space Complexity (SC):
+# O(V + E), where V is the number of courses and E is the number of prerequisites.
+# - O(V) for the degree array, visited set, and function recursion.
+# - O(E) for storing the adjacency list of prerequisites.
