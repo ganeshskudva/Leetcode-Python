@@ -317,3 +317,4 @@
 |[1405](https://leetcode.com/problems/longest-happy-string/)|    Longest Happy String |
 |[128](https://leetcode.com/problems/longest-consecutive-sequence/)|    Longest Consecutive Sequence |
 |[670](https://leetcode.com/problems/maximum-swap/)|    Maximum Swap |
+|[2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)|    Count Number of Maximum Bitwise-OR Subsets |
