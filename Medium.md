@@ -318,3 +318,4 @@
 |[128](https://leetcode.com/problems/longest-consecutive-sequence/)|    Longest Consecutive Sequence |
 |[670](https://leetcode.com/problems/maximum-swap/)|    Maximum Swap |
 |[2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)|    Count Number of Maximum Bitwise-OR Subsets |
+|[1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|    Find Kth Bit in Nth Binary String |
