@@ -112,3 +112,4 @@
 |[1893](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)|      Check if All the Integers in a Range Are Covered |
 |[1732](https://leetcode.com/problems/find-the-highest-altitude/)|      Find the Highest Altitude |
 |[404](https://leetcode.com/problems/sum-of-left-leaves/)|      Sum of Left Leaves |
+|[507](https://leetcode.com/problems/perfect-number/)|      Perfect Number |
