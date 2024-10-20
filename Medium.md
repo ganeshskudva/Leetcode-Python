@@ -322,3 +322,4 @@
 |[187](https://leetcode.com/problems/repeated-dna-sequences/)|    Repeated DNA Sequences |
 |[1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|    Remove All Adjacent Duplicates in String II |
 |[966](https://leetcode.com/problems/vowel-spellchecker/)|    Vowel Spellchecker |
+|[1631](https://leetcode.com/problems/path-with-minimum-effort/)|    Path With Minimum Effort |
