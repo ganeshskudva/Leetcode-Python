@@ -321,3 +321,4 @@
 |[1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|    Find Kth Bit in Nth Binary String |
 |[187](https://leetcode.com/problems/repeated-dna-sequences/)|    Repeated DNA Sequences |
 |[1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|    Remove All Adjacent Duplicates in String II |
+|[966](https://leetcode.com/problems/vowel-spellchecker/)|    Vowel Spellchecker |
