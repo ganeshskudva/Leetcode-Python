@@ -324,3 +324,4 @@
 |[966](https://leetcode.com/problems/vowel-spellchecker/)|    Vowel Spellchecker |
 |[1631](https://leetcode.com/problems/path-with-minimum-effort/)|    Path With Minimum Effort |
 |[743](https://leetcode.com/problems/network-delay-time/)|    Network Delay Time |
+|[1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)|    Split a String Into the Max Number of Unique Substrings |
