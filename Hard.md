@@ -70,3 +70,4 @@
 |[269](https://leetcode.com/problems/alien-dictionary/)| Alien Dictionary|
 |[632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)| Smallest Range Covering Elements from K Lists|
 |[1106](https://leetcode.com/problems/parsing-a-boolean-expression/)| Parsing A Boolean Expression|
+|[2290](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)| Minimum Obstacle Removal to Reach Corner|
