@@ -326,3 +326,4 @@
 |[743](https://leetcode.com/problems/network-delay-time/)|    Network Delay Time |
 |[1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)|    Split a String Into the Max Number of Unique Substrings |
 |[951](https://leetcode.com/problems/flip-equivalent-binary-trees/)|    Flip Equivalent Binary Trees |
+|[1233](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|    Remove Sub-Folders from the Filesystem |
