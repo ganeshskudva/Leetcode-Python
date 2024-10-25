@@ -327,3 +327,4 @@
 |[1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)|    Split a String Into the Max Number of Unique Substrings |
 |[951](https://leetcode.com/problems/flip-equivalent-binary-trees/)|    Flip Equivalent Binary Trees |
 |[1233](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|    Remove Sub-Folders from the Filesystem |
+|[2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)|    Kth Largest Sum in a Binary Tree |
