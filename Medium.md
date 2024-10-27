@@ -329,3 +329,4 @@
 |[1233](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|    Remove Sub-Folders from the Filesystem |
 |[2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)|    Kth Largest Sum in a Binary Tree |
 |[1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|    Count Square Submatrices with All Ones |
+|[339](https://leetcode.com/problems/nested-list-weight-sum/)|    Nested List Weight Sum |
