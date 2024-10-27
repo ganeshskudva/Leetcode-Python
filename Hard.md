@@ -71,3 +71,4 @@
 |[632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)| Smallest Range Covering Elements from K Lists|
 |[1106](https://leetcode.com/problems/parsing-a-boolean-expression/)| Parsing A Boolean Expression|
 |[2290](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)| Minimum Obstacle Removal to Reach Corner|
+|[2458](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/)| Height of Binary Tree After Subtree Removal Queries|
