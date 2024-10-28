@@ -333,3 +333,4 @@
 |[2501](https://leetcode.com/problems/longest-square-streak-in-an-array/)|    Longest Square Streak in an Array |
 |[215](https://leetcode.com/problems/kth-largest-element-in-an-array/)|    Kth Largest Element in an Array |
 |[129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|    Sum Root to Leaf Numbers |
+|[5](https://leetcode.com/problems/longest-palindromic-substring/)|    Longest Palindromic Substring |
