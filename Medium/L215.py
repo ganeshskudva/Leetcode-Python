@@ -1,5 +1,6 @@
 import random
 
+## quick-select
 class Solution:
     def findKthLargest(self, nums, k):
         # Edge case: if nums is empty, return None
@@ -40,3 +41,50 @@ class Solution:
 # Space Complexity (SC): O(n)
 # - Each recursive call creates new partitions (`left`, `mid`, and `right`), each of which can take up to O(n) space.
 # - In total, the space complexity is O(n) due to creating new lists in each recursive call.
+
+## heap based solution
+import heapq
+from typing import List
+
+class Solution:
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        # Initialize a min-heap with the first k elements
+        hp = nums[:k]
+        heapq.heapify(hp)  # Create a min-heap in O(k) time
+
+        # Iterate over the remaining elements in nums starting from index k
+        for n in nums[k:]:
+            # If the current element is larger than the smallest element in the heap (hp[0]),
+            # it means we can replace it to keep the heap containing the k largest elements
+            if n > hp[0]:
+                heapq.heapreplace(hp, n)  # Pop the smallest and push the current element in one step
+
+        # The root of the heap (hp[0]) is the k-th largest element
+        return hp[0]
+
+# Time Complexity (TC): O(n log k)
+# - Building the initial heap takes O(k) time.
+# - For the remaining (n - k) elements, each insertion and removal operation takes O(log k),
+#   resulting in O((n - k) log k) which simplifies to O(n log k) overall.
+
+# Space Complexity (SC): O(k)
+# - The heap stores only the k largest elements, resulting in O(k) space complexity.
+
+
+import heapq
+from typing import List
+
+class Solution:
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        # Use `heapq.nlargest` to find the k largest elements in `nums`
+        # The function returns a sorted list of the k largest elements in descending order
+        # We access the last element in this list (`[-1]`), which is the k-th largest
+        return heapq.nlargest(k, nums)[-1]
+
+# Time Complexity (TC): O(n log k), where n is the number of elements in `nums`.
+# - The `heapq.nlargest` function internally maintains a min-heap of size k to track the k largest elements.
+# - Building this heap takes O(n log k) time, as each element insertion/removal in the heap of size k takes O(log k).
+
+# Space Complexity (SC): O(k)
+# - The `heapq.nlargest` function maintains a heap of the k largest elements, so it requires O(k) space.
+# - The space complexity is efficient for large n with small k values.
