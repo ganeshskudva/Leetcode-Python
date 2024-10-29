@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
         n = len(nums)  # Get the length of the list
@@ -35,3 +37,11 @@ class Solution:
         
         # Given the problem's constraints, a peak element will always be found within the loop
         return lo
+
+# Time Complexity (TC):
+# - The binary search algorithm divides the search space in half with each iteration, so the time complexity is O(log n).
+# - Checking the neighbors and updating pointers takes constant time within each iteration.
+
+# Space Complexity (SC):
+# - The space complexity is O(1) because we are only using a fixed amount of extra space for variables (lo, hi, mid).
+# - No additional data structures or recursion is used, so the space usage is constant.
