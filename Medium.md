@@ -335,3 +335,4 @@
 |[129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|    Sum Root to Leaf Numbers |
 |[5](https://leetcode.com/problems/longest-palindromic-substring/)|    Longest Palindromic Substring |
 |[2684](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/)|    Maximum Number of Moves in a Grid |
+|[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|    Lowest Common Ancestor of a Binary Tree |
