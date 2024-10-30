@@ -48,3 +48,11 @@ class Solution:
         
         # Return the updated root after deletion
         return root
+
+# Time Complexity (TC): O(h), where h is the height of the binary search tree.
+# In a balanced BST, the time complexity is O(log n) due to halving the search space at each level.
+# In the worst case (skewed tree), it could be O(n), where n is the number of nodes.
+
+# Space Complexity (SC): O(h), where h is the height of the tree.
+# This accounts for the recursion stack, which can reach O(log n) for a balanced tree
+# and O(n) in the worst case for a skewed tree.
