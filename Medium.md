@@ -337,3 +337,4 @@
 |[2684](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/)|    Maximum Number of Moves in a Grid |
 |[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|    Lowest Common Ancestor of a Binary Tree |
 |[606](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)|    Construct String from Binary Tree |
+|[701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|    Insert into a Binary Search Tree |
