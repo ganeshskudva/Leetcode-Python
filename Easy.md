@@ -114,3 +114,4 @@
 |[404](https://leetcode.com/problems/sum-of-left-leaves/)|      Sum of Left Leaves |
 |[507](https://leetcode.com/problems/perfect-number/)|      Perfect Number |
 |[1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|      Cells with Odd Values in a Matrix |
+|[783](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|      Minimum Distance Between BST Nodes |
