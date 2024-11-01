@@ -25,3 +25,12 @@ class Solution:
         # In the end, the stack should be empty if all brackets were matched correctly.
         return not st
 
+# Time Complexity (TC): O(n), where n is the length of the input string `s`.
+#   - We iterate over each character in `s` once, performing constant-time operations per character.
+
+# Space Complexity (SC): O(n), where n is the length of the input string `s`.
+#   - In the worst case, if all characters are opening brackets, the stack `st` will hold up to `n` elements.
+#   - This could be optimized to O(k), where k is the maximum depth of nested brackets,
+#     but for general purposes, we consider the space to be O(n).
+
+
