@@ -75,3 +75,4 @@
 |[1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)| Minimum Number of Removals to Make Mountain Array|
 |[2463](https://leetcode.com/problems/minimum-total-distance-traveled/)| Minimum Total Distance Traveled|
 |[44](https://leetcode.com/problems/wildcard-matching/)| Wildcard Matching|
+|[1675](https://leetcode.com/problems/minimize-deviation-in-array/)| Minimize Deviation in Array|
