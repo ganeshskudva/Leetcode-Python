@@ -342,3 +342,4 @@
 |[721](https://leetcode.com/problems/accounts-merge/)|     Accounts Merge |
 |[560](https://leetcode.com/problems/subarray-sum-equals-k/)|     Subarray Sum Equals K |
 |[1845](https://leetcode.com/problems/seat-reservation-manager/)|     Seat Reservation Manager |
+|[3163](https://leetcode.com/problems/string-compression-iii/)|     String Compression III |
