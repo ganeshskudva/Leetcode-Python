@@ -343,3 +343,4 @@
 |[560](https://leetcode.com/problems/subarray-sum-equals-k/)|     Subarray Sum Equals K |
 |[1845](https://leetcode.com/problems/seat-reservation-manager/)|     Seat Reservation Manager |
 |[3163](https://leetcode.com/problems/string-compression-iii/)|     String Compression III |
+|[1985](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)|     Find the Kth Largest Integer in the Array |
