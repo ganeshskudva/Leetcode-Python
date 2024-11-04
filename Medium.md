@@ -344,3 +344,4 @@
 |[1845](https://leetcode.com/problems/seat-reservation-manager/)|     Seat Reservation Manager |
 |[3163](https://leetcode.com/problems/string-compression-iii/)|     String Compression III |
 |[1985](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)|     Find the Kth Largest Integer in the Array |
+|[380](https://leetcode.com/problems/insert-delete-getrandom-o1/)|     Insert Delete GetRandom O(1) |
