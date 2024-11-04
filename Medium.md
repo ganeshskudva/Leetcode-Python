@@ -341,3 +341,4 @@
 |[513](https://leetcode.com/problems/find-bottom-left-tree-value/)|    Find Bottom Left Tree Value |
 |[721](https://leetcode.com/problems/accounts-merge/)|     Accounts Merge |
 |[560](https://leetcode.com/problems/subarray-sum-equals-k/)|     Subarray Sum Equals K |
+|[1845](https://leetcode.com/problems/seat-reservation-manager/)|     Seat Reservation Manager |
