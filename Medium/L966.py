@@ -4,6 +4,7 @@ class Solution:
 
         # Helper to strip vowels (replace them with #)
         def strip_vowels(word):
+            # return ''.join('#' if c in 'aeiouAEIOU' else c for c in word)
             return word.translate(str.maketrans("aeiouAEIOU", "##########"))
 
         # If wordlist or queries is empty, return the initialized empty result
