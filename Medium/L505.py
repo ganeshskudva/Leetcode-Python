@@ -69,6 +69,7 @@ class Solution:
 
 # Normal BFS using deque
 
+from typing import List
 from collections import deque
 
 class Solution:
@@ -124,3 +125,10 @@ class Solution:
         
         # If we were unable to reach the destination, return -1, otherwise return the minimum distance found
         return -1 if res == float('inf') else res
+
+# Time Complexity (TC): O(m * n), where m is the number of rows and n is the number of columns in the maze.
+# Each cell is processed at most once in each direction, making the total number of operations proportional to the number of cells.
+
+# Space Complexity (SC): O(m * n), for the distance matrix and the queue.
+# The distance matrix stores the minimum distance to each cell, and the queue may contain up to m * n elements.
+
