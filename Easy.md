@@ -117,3 +117,4 @@
 |[783](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|      Minimum Distance Between BST Nodes |
 |[1971](https://leetcode.com/problems/find-if-path-exists-in-graph/)|      Find if Path Exists in Graph |
 |[1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|      Delete Characters to Make Fancy String |
+|[1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|      Minimum Changes To Make Alternating Binary String |
