@@ -1,3 +1,4 @@
+# DFS
 class Solution:
     def hasPath(self, maze: List[List[int]], start: List[int], destination: List[int]) -> bool:
         # Define the possible directions in which the ball can roll: right, down, left, up
@@ -52,3 +53,56 @@ class Solution:
 # Space Complexity (SC): O(m * n), for the visited set and the recursion stack.
 # The visited set may store up to m * n cells, and the recursion depth in the worst case
 # can also go up to m * n, depending on the structure of the maze and paths explored.
+
+# BFS
+class Solution:
+    def hasPath(self, maze: List[List[int]], start: List[int], destination: List[int]) -> bool:
+        m, n = len(maze), len(maze[0])  # Dimensions of the maze
+        dirs = [[0, 1], [1, 0], [0, -1], [-1, 0]]  # Directions: right, down, left, up
+
+        # Helper function to check if a cell is within bounds and not a wall
+        def is_valid(x, y):
+            return 0 <= x < m and 0 <= y < n and maze[x][y] != 1
+
+        # Helper function to check if the current cell is the destination
+        def reached_dest(x, y):
+            return [x, y] == destination
+
+        # Initialize the BFS queue and visited set
+        vis, q = set(), deque([(start[0], start[1])])
+        
+        # BFS loop
+        while q:
+            x, y = q.popleft()  # Dequeue the current cell
+            key = (x, y)
+            
+            # Check if the destination is reached
+            if reached_dest(x, y):
+                return True
+            
+            # Skip cells that are invalid or already visited
+            if not is_valid(x, y) or key in vis:
+                continue
+
+            vis.add(key)  # Mark the current cell as visited
+            
+            # Explore all four directions
+            for dx, dy in dirs:
+                r, c = x, y
+                
+                # Roll in the current direction until hitting a wall or boundary
+                while is_valid(r + dx, c + dy):
+                    r, c = r + dx, c + dy
+                
+                # After reaching the last valid cell in this direction, add it to the queue if unvisited
+                if (r, c) not in vis:
+                    q.append((r, c))
+        
+        # Return False if no path to the destination is found
+        return False
+
+# Time Complexity (TC): O(m * n), where m is the number of rows and n is the number of columns.
+# Each cell is visited at most once in each direction due to the visited set, making the process efficient.
+
+# Space Complexity (SC): O(m * n), for the queue and visited set.
+# The queue can contain up to m * n cells in the worst case, and the visited set also stores up to m * n cells.
