@@ -45,3 +45,10 @@ class Solution:
 
         # Start the recursive solving from the start position
         return solve()
+
+# Time Complexity (TC): O(m * n), where m is the number of rows and n is the number of columns.
+# Each cell is visited at most once, as each cell is only added to the visited set one time.
+#
+# Space Complexity (SC): O(m * n), for the visited set and the recursion stack.
+# The visited set may store up to m * n cells, and the recursion depth in the worst case
+# can also go up to m * n, depending on the structure of the maze and paths explored.
