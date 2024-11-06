@@ -347,3 +347,4 @@
 |[380](https://leetcode.com/problems/insert-delete-getrandom-o1/)|     Insert Delete GetRandom O(1) |
 |[1229](https://leetcode.com/problems/meeting-scheduler/)|     Meeting Scheduler |
 |[347](https://leetcode.com/problems/top-k-frequent-elements/)|     Top K Frequent Elements |
+|[3011](https://leetcode.com/problems/find-if-array-can-be-sorted/)|     Find if Array Can Be Sorted |
