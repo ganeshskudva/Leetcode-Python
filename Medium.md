@@ -349,3 +349,4 @@
 |[347](https://leetcode.com/problems/top-k-frequent-elements/)|     Top K Frequent Elements |
 |[3011](https://leetcode.com/problems/find-if-array-can-be-sorted/)|     Find if Array Can Be Sorted |
 |[2275](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/)|      Largest Combination With Bitwise AND Greater Than Zero |
+|[1829](https://leetcode.com/problems/maximum-xor-for-each-query/)|      Maximum XOR for Each Query |
