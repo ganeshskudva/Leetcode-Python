@@ -2,10 +2,16 @@ from typing import List
 
 class Solution:
     def getAverages(self, nums: List[int], k: int) -> List[int]:
+        # Handle edge cases where no average computation is needed
+        if k == 0:
+            return nums
+        if len(nums) < 2 * k + 1:
+            return [-1] * len(nums)
+        
         # Initialize result array with -1, as we can't compute averages for indices that are out of bounds.
         res = [-1] * len(nums)
         
-        # Initialize variables for sliding window
+        # Initialize sliding window variables
         left, curWindowSum, diameter = 0, 0, 2 * k + 1
         
         # Traverse through the nums array with a sliding window approach
@@ -15,7 +21,7 @@ class Solution:
             
             # Check if window has reached required diameter (2k+1)
             if (right - left + 1 >= diameter):
-                # Calculate the average for the middle element of the current window
+                # Calculate and store the average for the middle element of the current window
                 res[left + k] = curWindowSum // diameter
                 # Remove the leftmost element from the window sum and move the window forward
                 curWindowSum -= nums[left]
