@@ -352,3 +352,4 @@
 |[1829](https://leetcode.com/problems/maximum-xor-for-each-query/)|      Maximum XOR for Each Query |
 |[3133](https://leetcode.com/problems/minimum-array-end/)|      Minimum Array End |
 |[2090](https://leetcode.com/problems/k-radius-subarray-averages/)|      K Radius Subarray Averages |
+|[1778](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/)|      Shortest Path in a Hidden Grid |
