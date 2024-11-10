@@ -361,3 +361,4 @@
 |[468](https://leetcode.com/problems/validate-ip-address/)|      Validate IP Address |
 |[453](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|      Minimum Moves to Equal Array Elements |
 |[114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|      Flatten Binary Tree to Linked List |
+|[958](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|      Check Completeness of a Binary Tree |
