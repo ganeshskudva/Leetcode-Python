@@ -119,3 +119,4 @@
 |[1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|      Delete Characters to Make Fancy String |
 |[1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|      Minimum Changes To Make Alternating Binary String |
 |[268](https://leetcode.com/problems/missing-number/)|      Missing Number |
+|[1512](https://leetcode.com/problems/number-of-good-pairs/)|      Number of Good Pairs |
