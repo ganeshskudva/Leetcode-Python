@@ -372,3 +372,4 @@
 |[109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|      Convert Sorted List to Binary Search Tree |
 |[529](https://leetcode.com/problems/minesweeper/)|      Minesweeper |
 |[498](https://leetcode.com/problems/diagonal-traverse/)|      Diagonal Traverse |
+|[249](https://leetcode.com/problems/group-shifted-strings/)|      Group Shifted Strings |
