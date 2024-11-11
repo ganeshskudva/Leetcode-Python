@@ -375,3 +375,4 @@
 |[249](https://leetcode.com/problems/group-shifted-strings/)|      Group Shifted Strings |
 |[536](https://leetcode.com/problems/construct-binary-tree-from-string/)|      Construct Binary Tree from String |
 |[636](https://leetcode.com/problems/exclusive-time-of-functions/)|      Exclusive Time of Functions |
+|[1424](https://leetcode.com/problems/diagonal-traverse-ii/)|      Diagonal Traverse II |
