@@ -365,3 +365,4 @@
 |[1197](https://leetcode.com/problems/minimum-knight-moves/)|      Minimum Knight Moves |
 |[825](https://leetcode.com/problems/friends-of-appropriate-ages/)|      Friends Of Appropriate Ages |
 |[647](https://leetcode.com/problems/palindromic-substrings/)|      Palindromic Substrings |
+|[2601](https://leetcode.com/problems/prime-subtraction-operation/)|      Prime Subtraction Operation |
