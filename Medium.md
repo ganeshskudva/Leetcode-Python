@@ -373,3 +373,4 @@
 |[529](https://leetcode.com/problems/minesweeper/)|      Minesweeper |
 |[498](https://leetcode.com/problems/diagonal-traverse/)|      Diagonal Traverse |
 |[249](https://leetcode.com/problems/group-shifted-strings/)|      Group Shifted Strings |
+|[536](https://leetcode.com/problems/construct-binary-tree-from-string/)|      Construct Binary Tree from String |
