@@ -382,3 +382,4 @@
 |[1644](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/)|      Lowest Common Ancestor of a Binary Tree II |
 |[937](https://leetcode.com/problems/reorder-data-in-log-files/)|      Reorder Data in Log Files |
 |[2070](https://leetcode.com/problems/most-beautiful-item-for-each-query/)|      Most Beautiful Item for Each Query |
+|[2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/)|      Count the Number of Fair Pairs |
