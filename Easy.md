@@ -121,3 +121,4 @@
 |[268](https://leetcode.com/problems/missing-number/)|      Missing Number |
 |[1512](https://leetcode.com/problems/number-of-good-pairs/)|      Number of Good Pairs |
 |[1652](https://leetcode.com/problems/defuse-the-bomb/)|      Defuse the Bomb |
+|[163](https://leetcode.com/problems/missing-ranges/)|      Missing Ranges |
