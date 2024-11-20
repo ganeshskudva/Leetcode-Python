@@ -1,3 +1,28 @@
+# without stack
+class Solution:
+    def asteroidCollision(self, asteroids: List[int]) -> List[int]:
+        idx = 0  # Acts like the stack pointer
+        
+        for a in asteroids:
+            while idx > 0 and asteroids[idx - 1] > 0 and asteroids[idx - 1] < -a:
+                idx -= 1  # Simulate popping the stack
+            if idx == 0 or asteroids[idx - 1] < 0 or a > 0:
+                asteroids[idx] = a  # Simulate pushing onto the stack
+                idx += 1
+            elif asteroids[idx - 1] == -a:
+                idx -= 1  # Destroy both asteroids (simulate pop)
+
+        return asteroids[:idx]  # Return the surviving asteroids
+
+# Time Complexity (TC): O(n)
+# - Each asteroid is processed once, with each push or pop taking O(1).
+# Total: O(n).
+
+# Space Complexity (SC): O(1)
+# - No additional data structures are used, and the input list is modified in place.
+
+
+# with stack
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
         st = []  # Stack to store surviving asteroids

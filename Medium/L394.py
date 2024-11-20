@@ -1,36 +1,41 @@
 class Solution(object):
     def decodeString(self, s):
-        # Initialize a stack to keep track of previous strings and numbers
+        # Stack to keep track of previous strings and repetition numbers
         stack = []
         # Variables to store the current number and current string being constructed
         curNum = 0
         curString = ''
         
-        # Iterate through each character in the input string
         for c in s:
-            # If the character is an opening bracket '[', push the current string and number onto the stack
             if c == '[':
-                stack.append(curString)  # Save the current string before entering a new context
-                stack.append(curNum)     # Save the current number for the next repeated sequence
-                # Reset the current string and number for the new context inside the brackets
+                # Push the current string and number onto the stack
+                stack.append(curString)
+                stack.append(curNum)
+                # Reset current string and number for the new context
                 curString = ''
                 curNum = 0
-            
-            # If the character is a closing bracket ']', pop from the stack and build the new string
             elif c == ']':
-                num = stack.pop()        # Retrieve the number of repetitions from the stack
-                prevString = stack.pop() # Retrieve the previous string context from the stack
-                # Update the current string by repeating the current string `num` times and appending it to the previous string
+                # Pop the number and previous string from the stack
+                num = stack.pop()
+                prevString = stack.pop()
+                # Update the current string by repeating it and appending it to the previous string
                 curString = prevString + num * curString
-            
-            # If the character is a digit, build the current number (could be more than one digit)
             elif c.isdigit():
-                # Update curNum to handle multiple-digit numbers (e.g., "34" becomes 34, not 3 and 4 separately)
+                # Handle multiple-digit numbers
                 curNum = curNum * 10 + int(c)
-            
-            # If the character is a letter, add it to the current string being constructed
             else:
+                # Add characters to the current string
                 curString += c
         
-        # After finishing the iteration, return the final decoded string
+        # Return the final decoded string
         return curString
+
+# Time Complexity (TC): O(n)
+# - We iterate through the input string `s` once, processing each character in O(1).
+# - Constructing the `curString` involves appending or repeating, which is efficient due to stack usage.
+# - The overall complexity is O(n), where n is the length of the input string.
+
+# Space Complexity (SC): O(m)
+# - The stack can store up to O(m) characters and numbers, where m is the depth of nested brackets.
+# - The final decoded string is returned, requiring O(k) space, where k is the length of the output.
+# - Total space complexity is O(m + k).
