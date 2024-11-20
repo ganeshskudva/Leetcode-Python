@@ -1,37 +1,26 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
-        # Initialize result and stack for directory names
-        res, st = [], []
-        
+        st = []  # Stack to store the valid components of the path
+
         # Split the path by "/" and process each component
         for s in path.split("/"):
-            # ".." means to go up one directory, so pop from stack if possible
             if s == '..':
-                if st:
+                if st:  # Pop from stack if possible
                     st.pop()
-            # Ignore empty components and "." (current directory)
-            elif s != "" and s != '.':
-                st.append(s)  # Add directory to stack if it's a valid name
-        
-        # If the stack is empty, return the root "/"
-        if not st:
-            return "/"
-        
-        # Build the simplified path by appending '/' and each directory in the stack
-        for c in st:
-            res.append('/')
-            res.append(c)
-                
-        return ''.join(res)  # Join the result list into a string
+            elif s != "" and s != '.':  # Ignore empty strings and '.'
+                st.append(s)
 
-# Time Complexity (TC):
-# - Splitting the path by "/" is O(n), where n is the length of the input string `path`.
-# - We iterate over each component in the split path and perform constant-time operations (append/pop) on the stack.
-# - The final loop that builds the result path is also O(n), as it iterates through the stack.
-# - Overall, the time complexity is O(n).
+        # Join the stack components with '/' to form the simplified path
+        return '/' + '/'.join(st)
 
-# Space Complexity (SC):
-# - The stack `st` stores the directory names, with at most one element per directory in the path, making it O(n).
-# - The result list `res` is also O(n) in the worst case for building the final simplified path.
-# - Overall space complexity is O(n).
+# Time Complexity (TC): O(n), where n is the length of the input string.
+# - Splitting the string by '/' takes O(n).
+# - Iterating through the components and performing operations on the stack takes O(n).
+# Total: O(n).
+
+# Space Complexity (SC): O(n)
+# - The stack `st` can store up to O(n) components in the worst case.
+# - The result string also takes O(n) space.
+# Total: O(n).
+
 
