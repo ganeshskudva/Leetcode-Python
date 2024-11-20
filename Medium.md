@@ -385,3 +385,4 @@
 |[2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/)|      Count the Number of Fair Pairs |
 |[1574](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)|      Shortest Subarray to be Removed to Make Array Sorted |
 |[2064](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/)|      Minimized Maximum of Products Distributed to Any Store |
+|[2516](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)|      Take K of Each Character From Left and Right |
