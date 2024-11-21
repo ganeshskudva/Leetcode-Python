@@ -388,3 +388,4 @@
 |[2516](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)|      Take K of Each Character From Left and Right |
 |[791](https://leetcode.com/problems/custom-sort-string/)|      Custom Sort String |
 |[451](https://leetcode.com/problems/sort-characters-by-frequency/)|      Sort Characters By Frequency |
+|[2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)|      Count Unguarded Cells in the Grid |
