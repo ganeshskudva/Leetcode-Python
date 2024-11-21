@@ -29,6 +29,18 @@ class Solution:
         # Return the window of size `k` starting from index `left`.
         return arr[left:left + k]
 
+# Time Complexity (TC):
+# - Binary search is performed on the range [0, len(arr) - k], which has a size of O(n - k).
+#   Each iteration of binary search takes O(1) time, and the number of iterations is O(log(n - k)).
+# - Extracting the subarray of size `k` is O(k).
+# - Overall TC: O(log(n - k)) + O(k).
+
+# Space Complexity (SC):
+# - The algorithm uses only a constant amount of extra space, i.e., O(1).
+# - The returned subarray does not count as extra space as it is part of the output.
+# - Overall SC: O(1).
+
+
 
 ## Using Sliding Window
 class Solution:
@@ -76,3 +88,12 @@ class Solution:
         # The result list `res` will contain `k` elements that are closest to `x`. Since the input `arr` is already sorted,
         # the result will also be sorted in ascending order.
         return res
+
+# Time Complexity (TC):
+# - The loop iterates through all `n` elements in the array. Each iteration appends to or removes from the result list `res`.
+# - In the worst case, the window size is adjusted for every element, which can result in O(n) additions and removals.
+# - Overall TC: O(n).
+
+# Space Complexity (SC):
+# - The `res` list stores at most `k` elements at any time.
+# - Therefore, the space complexity is O(k).
