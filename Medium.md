@@ -390,3 +390,4 @@
 |[451](https://leetcode.com/problems/sort-characters-by-frequency/)|      Sort Characters By Frequency |
 |[2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)|      Count Unguarded Cells in the Grid |
 |[1072](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|      Flip Columns For Maximum Number of Equal Rows |
+|[723](https://leetcode.com/problems/candy-crush/)|     Candy Crush |
