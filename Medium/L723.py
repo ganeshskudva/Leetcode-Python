@@ -7,12 +7,6 @@ def candy_crush(board):
 
     Returns:
         List[List[int]]: The updated game board after candies are crushed and dropped.
-
-    Time Complexity:
-        O((m * n)^2): The board is traversed multiple times for candy crushing and dropping until it stabilizes.
-
-    Space Complexity:
-        O(m * n): Space used to store coordinates of candies to crush.
     """
     rows, cols = len(board), len(board[0])
 
@@ -55,3 +49,9 @@ def candy_crush(board):
         drop_candies()
 
     return board
+
+# Time Complexity:
+#     O((m * n)^2): The board is traversed multiple times for candy crushing and dropping until it stabilizes.
+
+# Space Complexity:
+#     O(m * n): Space used to store coordinates of candies to crush.
