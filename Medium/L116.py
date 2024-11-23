@@ -1,5 +1,18 @@
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, val: int = 0, left: 'Node' = None, right: 'Node' = None, next: 'Node' = None):
+        self.val = val
+        self.left = left
+        self.right = right
+        self.next = next
+"""
 class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
+        """
+        Connects each node to its next right node in a perfect binary tree.
+        If there is no next right node, the 'next' pointer should be set to None.
+        """
         # If the root is None (i.e., the tree is empty), return None.
         if not root:
             return root
@@ -33,3 +46,13 @@ class Solution:
         
         # After processing all levels, return the root of the tree (with 'next' pointers correctly set).
         return root
+
+# Time Complexity (TC):
+# O(n) - Each node in the tree is visited exactly once during the level-order traversal,
+# where 'n' is the total number of nodes in the tree.
+
+# Space Complexity (SC):
+# O(w) - The maximum width of the tree determines the maximum size of the queue.
+# In a perfect binary tree, the maximum width occurs at the last level, where there are n/2 nodes.
+# Thus, the space complexity is O(n) in the worst case.
+
