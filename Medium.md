@@ -392,3 +392,4 @@
 |[1072](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|      Flip Columns For Maximum Number of Equal Rows |
 |[723](https://leetcode.com/problems/candy-crush/)|     Candy Crush |
 |[1861](https://leetcode.com/problems/rotating-the-box/)|     Rotating the Box |
+|[1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|     Maximum Level Sum of a Binary Tree |
