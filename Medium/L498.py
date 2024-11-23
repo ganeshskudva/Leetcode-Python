@@ -1,5 +1,3 @@
-from typing import List, Dict
-
 class Solution:
     def findDiagonalOrder(self, matrix: List[List[int]]) -> List[int]:
         # Edge case: If the matrix is empty, return an empty list
@@ -8,17 +6,13 @@ class Solution:
 
         # Dictionary to store each diagonal's elements.
         # Keys are the diagonal levels (i + j), values are lists of elements on that diagonal
-        diagonals: Dict[int, List[int]] = {}
+        diagonals: Dict[int, List[int]] = defaultdict(list)
         
         # Traverse the matrix to populate the diagonals dictionary
         for i in range(len(matrix)):
             for j in range(len(matrix[i])):
                 # Calculate the diagonal level as the sum of row index and column index (i + j)
                 diagonal_level = i + j
-                
-                # If this diagonal level is not in the dictionary, initialize it with an empty list
-                if diagonal_level not in diagonals:
-                    diagonals[diagonal_level] = []
                 
                 # Append the current element to the corresponding diagonal level in the dictionary
                 diagonals[diagonal_level].append(matrix[i][j])
