@@ -21,14 +21,14 @@ class Solution:
         # Step 3: Combine the result into a single string and return.
         return ''.join(result)
 
-        # Time Complexity:
-        #   - Counting characters in `s`: O(n), where n is the length of `s`.
-        #   - Processing `order`: O(m), where m is the length of `order`.
-        #   - Processing remaining characters: O(26) = O(1) (fixed size for English alphabet).
-        #   - Joining the result string: O(k), where k is the length of the result.
-        #   - Total: O(n + m + k).
+# Time Complexity:
+#   - Counting characters in `s`: O(n), where n is the length of `s`.
+#   - Processing `order`: O(m), where m is the length of `order`.
+#   - Processing remaining characters: O(26) = O(1) (fixed size for English alphabet).
+#   - Joining the result string: O(k), where k is the length of the result.
+#   - Total: O(n + m + k).
 
-        # Space Complexity:
-        #   - Fixed array `arr` of size 26: O(1).
-        #   - `result` list (output): O(k), where k is the length of the result string.
-        #   - Total: O(k) (output space doesn't count as extra space).
+# Space Complexity:
+#   - Fixed array `arr` of size 26: O(1).
+#   - `result` list (output): O(k), where k is the length of the result string.
+#   - Total: O(k) (output space doesn't count as extra space).
