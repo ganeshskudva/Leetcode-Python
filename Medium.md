@@ -393,3 +393,4 @@
 |[723](https://leetcode.com/problems/candy-crush/)|     Candy Crush |
 |[1861](https://leetcode.com/problems/rotating-the-box/)|     Rotating the Box |
 |[1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|     Maximum Level Sum of a Binary Tree |
+|[1498](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)|     Number of Subsequences That Satisfy the Given Sum Condition |
