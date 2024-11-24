@@ -1,5 +1,13 @@
 class Solution:
     def canArrange(self, arr: List[int], k: int) -> bool:
+        """
+        Determine if an array can be rearranged such that every pair of elements
+        sums to a multiple of k.
+
+        :param arr: List[int] - Input array of integers
+        :param k: int - The divisor
+        :return: bool - True if the array can be rearranged, False otherwise
+        """
         # Initialize a frequency array to keep track of the remainders when
         # elements of 'arr' are divided by 'k'. The size of this array is 'k',
         # and each index represents a remainder from 0 to k-1.
@@ -40,3 +48,12 @@ class Solution:
         # If all conditions are satisfied, return True. This means the array
         # can be rearranged such that every pair of numbers sums to a multiple of 'k'.
         return True
+
+# Time Complexity (TC): O(n + k)
+# - O(n) to iterate through the array and calculate remainders.
+# - O(k) to check the pairing conditions for remainders.
+# - Overall: O(n + k)
+
+# Space Complexity (SC): O(k)
+# - A frequency array of size 'k' is used to store the count of remainders.
+# - Overall: O(k)
