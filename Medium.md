@@ -401,3 +401,4 @@
 |[221](https://leetcode.com/problems/maximal-square/)|     Maximal Square |
 |[523](https://leetcode.com/problems/continuous-subarray-sum/)|     Continuous Subarray Sum |
 |[1975](https://leetcode.com/problems/maximum-matrix-sum/)|     Maximum Matrix Sum |
+|[525](https://leetcode.com/problems/contiguous-array/)|     Contiguous Array |
