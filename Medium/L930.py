@@ -1,3 +1,44 @@
+# Prefix Sum + HashMap
+from collections import defaultdict
+from typing import List
+
+class Solution:
+    def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
+        """
+        Find the number of subarrays with a sum equal to the given goal.
+
+        Args:
+        nums (List[int]): Binary array of 0s and 1s.
+        goal (int): Target sum.
+
+        Returns:
+        int: Number of subarrays with sum equal to the goal.
+
+        Time Complexity: O(n), where n is the size of the input array.
+            - We iterate through the array once, and dictionary operations (insert and lookup) are O(1) on average.
+
+        Space Complexity: O(n), where n is the size of the input array.
+            - In the worst case, the hash map stores up to n different prefix sums.
+        """
+        count = 0  # To store the number of valid subarrays
+        current_sum = 0  # Tracks the cumulative sum of elements
+        prefix_sums = defaultdict(int)  # Stores the frequency of prefix sums
+        prefix_sums[0] = 1  # Base case: to handle subarrays starting from index 0
+
+        for num in nums:
+            current_sum += num  # Update cumulative sum
+            # If (current_sum - goal) exists in prefix_sums, add its frequency to count
+            count += prefix_sums[current_sum - goal]
+            # Increment the frequency of the current_sum in prefix_sums
+            prefix_sums[current_sum] += 1
+
+        return count
+
+# Time Complexity: O(n), where n is the size of the input array.
+# Space Complexity: O(n), where n is the size of the input array.
+
+
+# SLiding Window
 class Solution:
     def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
         """
