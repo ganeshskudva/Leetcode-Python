@@ -12,13 +12,6 @@ class Solution:
 
         Returns:
         int: The number of subarrays whose sum is exactly equal to `goal`.
-
-        Time Complexity: O(n), where `n` is the length of `nums`. The sliding window ensures that 
-                         both the `left` and `right` pointers traverse the array at most once, 
-                         leading to a linear time complexity.
-                         
-        Space Complexity: O(1), as the solution only uses a few variables (`left`, `res`, `tgt`) 
-                          that do not depend on the size of the input.
         """
 
         def at_most(tgt):
@@ -69,3 +62,10 @@ class Solution:
         # This is calculated as the number of subarrays with sum at most `goal` minus the number of subarrays
         # with sum at most `goal - 1`.
         return at_most(goal) - at_most(goal - 1)
+
+# Time Complexity: O(n), where `n` is the length of `nums`. The sliding window ensures that 
+#                  both the `left` and `right` pointers traverse the array at most once, 
+#                  leading to a linear time complexity.
+                 
+# Space Complexity: O(1), as the solution only uses a few variables (`left`, `res`, `tgt`) 
+#                   that do not depend on the size of the input.
