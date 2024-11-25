@@ -404,3 +404,4 @@
 |[525](https://leetcode.com/problems/contiguous-array/)|     Contiguous Array |
 |[547](https://leetcode.com/problems/number-of-provinces/)|     Number of Provinces |
 |[974](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|     Subarray Sums Divisible by K |
+|[2914](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/)|     Minimum Number of Changes to Make Binary String Beautiful |
