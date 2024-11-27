@@ -406,3 +406,4 @@
 |[974](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|     Subarray Sums Divisible by K |
 |[2914](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/)|     Minimum Number of Changes to Make Binary String Beautiful |
 |[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|     Binary Tree Level Order Traversal II |
+|[3243](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)| Shortest Distance After Road Addition Queries I |
