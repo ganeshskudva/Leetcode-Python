@@ -410,3 +410,4 @@
 |[907](https://leetcode.com/problems/sum-of-subarray-minimums/)| Sum of Subarray Minimums |
 |[77](https://leetcode.com/problems/combinations/)| Combinations |
 |[2034](https://leetcode.com/problems/stock-price-fluctuation/)| Stock Price Fluctuation |
+|[6](https://leetcode.com/problems/zigzag-conversion/)| Zigzag Conversion |
