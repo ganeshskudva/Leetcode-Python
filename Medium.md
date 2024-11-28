@@ -411,3 +411,4 @@
 |[77](https://leetcode.com/problems/combinations/)| Combinations |
 |[2034](https://leetcode.com/problems/stock-price-fluctuation/)| Stock Price Fluctuation |
 |[6](https://leetcode.com/problems/zigzag-conversion/)| Zigzag Conversion |
+|[934](https://leetcode.com/problems/shortest-bridge/)| Shortest Bridge |
