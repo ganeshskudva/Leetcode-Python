@@ -80,3 +80,4 @@
 |[987](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| Vertical Order Traversal of a Binary Tree|
 |[773](https://leetcode.com/problems/sliding-puzzle/)| Sliding Puzzle|
 |[761](https://leetcode.com/problems/special-binary-string/)| Special Binary String|
+|[2577](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/)| Minimum Time to Visit a Cell In a Grid|
