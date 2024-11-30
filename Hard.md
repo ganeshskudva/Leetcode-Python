@@ -81,3 +81,4 @@
 |[773](https://leetcode.com/problems/sliding-puzzle/)| Sliding Puzzle|
 |[761](https://leetcode.com/problems/special-binary-string/)| Special Binary String|
 |[2577](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/)| Minimum Time to Visit a Cell In a Grid|
+|[2097](https://leetcode.com/problems/valid-arrangement-of-pairs/)| Valid Arrangement of Pairs|
