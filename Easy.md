@@ -123,3 +123,5 @@
 |[1652](https://leetcode.com/problems/defuse-the-bomb/)|      Defuse the Bomb |
 |[163](https://leetcode.com/problems/missing-ranges/)|      Missing Ranges |
 |[645](https://leetcode.com/problems/set-mismatch/)|      Set Mismatch |
+|[278](https://leetcode.com/problems/first-bad-version/)|      First Bad Version |
+|[2848](https://leetcode.com/problems/points-that-intersect-with-cars/)|      Points That Intersect With Cars |
