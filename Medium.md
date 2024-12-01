@@ -417,3 +417,4 @@
 |[151](https://leetcode.com/problems/reverse-words-in-a-string/)| Reverse Words in a String |
 |[75](https://leetcode.com/problems/sort-colors/)| Sort Colors |
 |[1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)| Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit |
+|[1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)| Longest Subarray of 1's After Deleting One Element |
