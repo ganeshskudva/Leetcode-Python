@@ -416,3 +416,4 @@
 |[3355](https://leetcode.com/problems/zero-array-transformation-ii/)| Zero Array Transformation II |
 |[151](https://leetcode.com/problems/reverse-words-in-a-string/)| Reverse Words in a String |
 |[75](https://leetcode.com/problems/sort-colors/)| Sort Colors |
+|[1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)| Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit |
