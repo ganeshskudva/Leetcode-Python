@@ -127,3 +127,4 @@
 |[2848](https://leetcode.com/problems/points-that-intersect-with-cars/)|      Points That Intersect With Cars |
 |[1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|      Check If N and Its Double Exist |
 |[246](https://leetcode.com/problems/strobogrammatic-number/)|      Strobogrammatic Number |
+|[501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|      Find Mode in Binary Search Tree |
