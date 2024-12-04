@@ -421,6 +421,8 @@
 |[247](https://leetcode.com/problems/strobogrammatic-number-ii/)| Strobogrammatic Number II |
 |[2109](https://leetcode.com/problems/adding-spaces-to-a-string/)| Adding Spaces to a String |
 |[2825](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)| Make String a Subsequence Using Cyclic Increments |
+|[2075](https://leetcode.com/problems/decode-the-slanted-ciphertext/)| Decode the Slanted Ciphertext |
+
 
 
 
