@@ -420,5 +420,7 @@
 |[1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)| Longest Subarray of 1's After Deleting One Element |
 |[247](https://leetcode.com/problems/strobogrammatic-number-ii/)| Strobogrammatic Number II |
 |[2109](https://leetcode.com/problems/adding-spaces-to-a-string/)| Adding Spaces to a String |
+|[2825](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)| Make String a Subsequence Using Cyclic Increments |
+
 
 
