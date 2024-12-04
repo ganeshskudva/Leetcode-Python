@@ -423,6 +423,8 @@
 |[2825](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)| Make String a Subsequence Using Cyclic Increments |
 |[2075](https://leetcode.com/problems/decode-the-slanted-ciphertext/)| Decode the Slanted Ciphertext |
 |[1060](https://leetcode.com/problems/missing-element-in-sorted-array/)| Missing Element in Sorted Array |
+|[1029](https://leetcode.com/problems/two-city-scheduling/)| Two City Scheduling |
+
 
 
 
