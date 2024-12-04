@@ -24,6 +24,18 @@ class Solution:
         
         return ans
 
+# Time Complexity (TC): O(n log n)
+#   - Heap construction: heapify(minHeap) takes O(n), where n is the number of intervals.
+#   - Each heappop operation takes O(log n), and we perform it n times, contributing O(n log n).
+#   - The total cost is O(n) for heapify + O(n log n) for popping and merging = O(n log n).
+
+# Space Complexity (SC): O(n)
+#   - The heap (minHeap) stores up to n intervals, so it requires O(n) space.
+#   - The result list (ans) stores up to n intervals in the worst case, also requiring O(n) space.
+#   - Auxiliary space for temporary variables is negligible compared to the above.
+#   - Overall, the space complexity is O(n).
+
+
 
 
 ## sorting
