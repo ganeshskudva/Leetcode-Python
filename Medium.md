@@ -425,6 +425,7 @@
 |[1060](https://leetcode.com/problems/missing-element-in-sorted-array/)| Missing Element in Sorted Array |
 |[1029](https://leetcode.com/problems/two-city-scheduling/)| Two City Scheduling |
 |[2337](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)| Move Pieces to Obtain a String |
+|[1797](https://leetcode.com/problems/design-authentication-manager/)| Design Authentication Manager |
 
 
 
