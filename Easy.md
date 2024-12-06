@@ -128,3 +128,4 @@
 |[1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|      Check If N and Its Double Exist |
 |[246](https://leetcode.com/problems/strobogrammatic-number/)|      Strobogrammatic Number |
 |[501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|      Find Mode in Binary Search Tree |
+|[976](https://leetcode.com/problems/largest-perimeter-triangle/)|      Largest Perimeter Triangle |
