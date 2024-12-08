@@ -428,6 +428,8 @@
 |[1797](https://leetcode.com/problems/design-authentication-manager/)| Design Authentication Manager |
 |[2554](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/)| Maximum Number of Integers to Choose From a Range I |
 |[1760](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)| Minimum Limit of Balls in a Bag |
+|[2054](https://leetcode.com/problems/two-best-non-overlapping-events/)| Two Best Non-Overlapping Events |
+
 
 
 
