@@ -57,3 +57,11 @@ class Codec:
 
         # Call the closure starting with the root and the full bounds of possible values
         return solve()
+
+# Time Complexity (TC):
+#   serialize: O(n) - Each node in the tree is visited exactly once during the preorder traversal.
+#   deserialize: O(n) - Each value in the serialized string is processed once, and bounds checking is efficient.
+
+# Space Complexity (SC):
+#   serialize: O(n) - The `sb` list stores all node values during serialization.
+#   deserialize: O(n) - The `q` deque stores all node values from the serialized string. Additionally, the recursion stack may use O(h) space, where h is the height of the tree (O(n) in the worst case for a skewed tree).
