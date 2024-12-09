@@ -41,7 +41,8 @@ class Solution:
 # Time Complexity (TC):
 # 1. Preprocessing the wordDict to create a set: O(K), where K is the total number of characters in all words in wordDict.
 # 2. Sorting the word lengths takes O(M log M), where M is the number of words in wordDict.
-# 3. The recursive function solve(idx) explores each index and checks all valid word lengths. In the worst case, it could explore all possible substrings at each index, leading to a time complexity of O(N^2), where N is the length of the string s.
+# 3. The recursive function solve(idx) explores each index and checks all valid word lengths. In the worst case, it could explore all possible substrings at each index, 
+#    leading to a time complexity of O(N^2), where N is the length of the string s.
 # 4. Therefore, the overall time complexity is O(N^2 + K + M log M), dominated by O(N^2).
 
 # Space Complexity (SC):
