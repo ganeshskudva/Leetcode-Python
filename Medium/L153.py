@@ -16,8 +16,17 @@ class Solution:
             else:
                 # If the middle element is greater than or equal to the high element,
                 # it means the minimum is in the right half (excluding 'mid').
-                # Move 'lo' to the next element after 'mid', using modulo to wrap around the array.
                 lo = mid + 1
         
         # After the loop, 'lo' will point to the minimum element
         return nums[lo]
+
+# Time Complexity (TC):
+# The binary search algorithm divides the search space in half at each iteration.
+# Therefore, the time complexity is O(log n), where 'n' is the size of the input array.
+
+# Space Complexity (SC):
+# This algorithm operates in constant space, as it uses only a fixed number of variables
+# (lo, hi, mid, n) and does not require any additional data structures.
+# Therefore, the space complexity is O(1).
+
