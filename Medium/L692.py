@@ -1,24 +1,35 @@
+from collections import Counter
+import heapq
+
 class Solution:
     def topKFrequent(self, words: List[str], k: int) -> List[str]:
-        # Count the frequency of each word using collections.Counter
-        # Create a list of tuples where the first element is the negative frequency
-        # and the second element is the word itself. 
-        # We use negative frequencies to turn the default min-heap into a max-heap.
-        hp = [(-v, word) for word, v in collections.Counter(words).items()]
+        # Count the frequency of each word
+        freq = Counter(words)
         
-        # Convert the list into a heap (min-heap by default in Python, hence negative frequency is used)
-        # heapq.heapify(hp) organizes the list so that the smallest element (which is the most frequent word
-        # due to the negative frequency) is at the root of the heap.
-        heapq.heapify(hp)
+        # Create a heap with (-frequency, word) tuples
+        # We use negative frequency for max-heap simulation and lexicographical order as a secondary criterion
+        heap = [(-count, word) for word, count in freq.items()]
+        
+        # Convert the list into a heap
+        heapq.heapify(heap)
+        
+        # Extract the top k elements from the heap
+        result = [heapq.heappop(heap)[1] for _ in range(k)]
+        
+        return result
 
-        res = []
-        # Extract the top 'k' elements from the heap
-        # heappop removes and returns the smallest element from the heap (which corresponds to the word
-        # with the highest frequency due to the negative frequency we used).
-        # After popping each word, decrease k by 1 until we get the top 'k' frequent words.
-        while hp and k:
-            res.append(heapq.heappop(hp)[1])  # Append the word (which is the second element in the tuple)
-            k -= 1
+# Time Complexity (TC):
+# 1. Counting word frequencies using Counter: O(n), where 'n' is the total number of words in the input list.
+# 2. Creating the heap (list comprehension): O(m), where 'm' is the number of unique words.
+# 3. Heapify operation to convert the list into a heap: O(m), since heapify is a linear-time operation.
+# 4. Extracting the top k elements using heappop:
+#    - Each heappop operation takes O(log m), and we perform it k times, making this step O(k * log m).
+# Overall Time Complexity: O(n + m + k * log m).
+# In typical scenarios, 'm' (unique words) is much smaller than 'n' (total words), making this efficient.
 
-        # Return the result list containing the top 'k' frequent words.
-        return res
+# Space Complexity (SC):
+# 1. Storage for the frequency dictionary: O(m), where 'm' is the number of unique words.
+# 2. Storage for the heap: O(m), since we store all unique words in the heap.
+# 3. Storage for the result list: O(k), since we store the top k words.
+# Overall Space Complexity: O(m + k).
+
