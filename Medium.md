@@ -432,6 +432,9 @@
 |[1485](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)| Clone Binary Tree With Random Pointer |
 |[364](https://leetcode.com/problems/nested-list-weight-sum-ii/)| Nested List Weight Sum II |
 |[3152](https://leetcode.com/problems/special-array-ii/)| Special Array II |
+|[29](https://leetcode.com/problems/divide-two-integers/)| Divide Two IntegersI |
+|[2981](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)| Find Longest Special Substring That Occurs Thrice I |
+
 
 
 
