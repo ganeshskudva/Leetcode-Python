@@ -33,3 +33,14 @@ class Solution:
         
         # If the target is not found after the binary search, return False.
         return False
+
+# Time Complexity (TC):
+# 1. In the worst-case scenario, where duplicates are present, the algorithm may need to perform a linear scan.
+#    - This happens when `nums[left] == nums[mid]`, and we increment `left` repeatedly.
+#    - This results in O(n) time complexity in the worst case.
+# 2. In the best-case scenario, when no duplicates are present, the binary search runs in O(log(n)).
+# Overall: **O(n)** in the worst case, **O(log(n))** in the best case.
+
+# Space Complexity (SC):
+# 1. The algorithm uses O(1) extra space, as it only employs pointers (`left`, `right`, `mid`) and does not require additional data structures.
+# Overall: **O(1)**.
