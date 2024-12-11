@@ -2,39 +2,37 @@ import random
 from typing import List
 
 class Solution:
-    
     def __init__(self, w: List[int]):
-        # Precompute cumulative weights
-        self.w_sums = [0] * len(w)  # Array to store cumulative sums of weights
-        self.w_sums[0] = w[0]
-        
-        # Build the cumulative sum array where each index `i` in `w_sums` represents the sum of weights up to `w[i]`
+        # Compute prefix sums for the weights
+        # self.prefix_sums[i] represents the cumulative sum of weights from index 0 to i
+        self.prefix_sums = list(w)
         for i in range(1, len(w)):
-            self.w_sums[i] = self.w_sums[i - 1] + w[i]
+            self.prefix_sums[i] += self.prefix_sums[i - 1]
 
     def pickIndex(self) -> int:
-        # Randomly select a target index in the range of the total sum of weights
-        n, rand_idx = len(self.w_sums), random.randint(1, self.w_sums[-1])
-        
-        # Use binary search to find the index corresponding to the selected random weight
-        left, right = 0, n - 1
+        # Generate a random integer between 1 and the total weight (inclusive)
+        target = random.randint(1, self.prefix_sums[-1])
 
+        # Perform binary search to find the smallest index such that prefix_sums[index] >= target
+        left, right = 0, len(self.prefix_sums) - 1
         while left < right:
-            mid = left + (right - left) // 2
-            # Check if mid index matches the random target, else adjust search range
-            if self.w_sums[mid] == rand_idx:
-                return mid
-            elif self.w_sums[mid] < rand_idx:
-                left = mid + 1
+            mid = (left + right) // 2  # Calculate the middle index
+            if self.prefix_sums[mid] < target:
+                left = mid + 1  # Narrow the search to the right half
             else:
-                right = mid
-
-        return left
+                right = mid  # Narrow the search to the left half
+        return left  # The index where the target falls in the prefix sums
 
 # Time Complexity (TC):
-# - __init__ (constructor): O(n), where n is the length of the weight list `w`.
-#   This is due to the cumulative sum calculation, which iterates over the weights once.
-# - pickIndex method: O(log n) for the binary search, as we use binary search to find the target index within `w_sums`.
+# 1. `__init__`:
+#    - Computing prefix sums requires O(n), where n is the length of the input array `w`.
+# 2. `pickIndex`:
+#    - The binary search runs in O(log(n)), where n is the number of weights.
+# Overall:
+#    - Initialization: O(n)
+#    - Each call to `pickIndex`: O(log(n))
 
 # Space Complexity (SC):
-# - O(n) for storing the cumulative sums array `w_sums`, which holds one entry per weight.
+# 1. The `prefix_sums` list requires O(n) space to store the cumulative weights.
+# 2. No additional data structures are used in the `pickIndex` method.
+# Overall: O(n)
