@@ -437,6 +437,8 @@
 |[1443](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)| Minimum Time to Collect All Apples in a Tree |
 |[2779](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)| Maximum Beauty of an Array After Applying Operation |
 |[1146](https://leetcode.com/problems/snapshot-array/)| Snapshot Array |
+|[2762](https://leetcode.com/problems/continuous-subarrays/)| Continuous Subarrays |
+
 
 
 
