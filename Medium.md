@@ -438,6 +438,8 @@
 |[2779](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)| Maximum Beauty of an Array After Applying Operation |
 |[1146](https://leetcode.com/problems/snapshot-array/)| Snapshot Array |
 |[2762](https://leetcode.com/problems/continuous-subarrays/)| Continuous Subarrays |
+|[1792](https://leetcode.com/problems/maximum-average-pass-ratio/)| Maximum Average Pass Ratio |
+
 
 
 
