@@ -130,3 +130,4 @@
 |[501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|      Find Mode in Binary Search Tree |
 |[976](https://leetcode.com/problems/largest-perimeter-triangle/)|      Largest Perimeter Triangle |
 |[2558](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)|      Take Gifts From the Richest Pile |
+|[3264](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)|      Final Array State After K Multiplication Operations I |
