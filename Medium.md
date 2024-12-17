@@ -440,6 +440,8 @@
 |[2762](https://leetcode.com/problems/continuous-subarrays/)| Continuous Subarrays |
 |[1792](https://leetcode.com/problems/maximum-average-pass-ratio/)| Maximum Average Pass Ratio |
 |[395](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)| Longest Substring with At Least K Repeating Characters |
+|[2182](https://leetcode.com/problems/construct-string-with-repeat-limit/)| Construct String With Repeat Limit |
+
 
 
 
