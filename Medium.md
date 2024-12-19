@@ -442,6 +442,8 @@
 |[395](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)| Longest Substring with At Least K Repeating Characters |
 |[2182](https://leetcode.com/problems/construct-string-with-repeat-limit/)| Construct String With Repeat Limit |
 |[285](https://leetcode.com/problems/inorder-successor-in-bst/)| Inorder Successor in BST |
+|[769](https://leetcode.com/problems/max-chunks-to-make-sorted/)| Max Chunks To Make Sorted |
+
 
 
 
