@@ -84,3 +84,4 @@
 |[2097](https://leetcode.com/problems/valid-arrangement-of-pairs/)| Valid Arrangement of Pairs|
 |[239](https://leetcode.com/problems/sliding-window-maximum/)| Sliding Window Maximum|
 |[2872](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)| Maximum Number of K-Divisible Components|
+|[2940](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/)| Find Building Where Alice and Bob Can Meet|
