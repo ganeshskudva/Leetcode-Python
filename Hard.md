@@ -86,3 +86,4 @@
 |[2872](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)| Maximum Number of K-Divisible Components|
 |[2940](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/)| Find Building Where Alice and Bob Can Meet|
 |[3203](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/)| Find Minimum Diameter After Merging Two Trees|
+|[689](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)| Maximum Sum of 3 Non-Overlapping Subarrays|
