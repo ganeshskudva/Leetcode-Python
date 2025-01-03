@@ -448,6 +448,8 @@
 |[515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)| Find Largest Value in Each Tree Row |
 |[1014](https://leetcode.com/problems/best-sightseeing-pair/)| Best Sightseeing Pair |
 |[2559](https://leetcode.com/problems/count-vowel-strings-in-ranges/)| Count Vowel Strings in Ranges |
+|[2270](https://leetcode.com/problems/number-of-ways-to-split-array/)| Number of Ways to Split Array |
+
 
 
 
