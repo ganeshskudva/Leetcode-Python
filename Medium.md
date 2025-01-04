@@ -450,6 +450,8 @@
 |[2559](https://leetcode.com/problems/count-vowel-strings-in-ranges/)| Count Vowel Strings in Ranges |
 |[2270](https://leetcode.com/problems/number-of-ways-to-split-array/)| Number of Ways to Split Array |
 |[1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)| Unique Length-3 Palindromic Subsequences |
+|[2352](https://leetcode.com/problems/equal-row-and-column-pairs/)| Equal Row and Column Pairs |
+
 
 
 
