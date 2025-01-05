@@ -452,6 +452,8 @@
 |[1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)| Unique Length-3 Palindromic Subsequences |
 |[2352](https://leetcode.com/problems/equal-row-and-column-pairs/)| Equal Row and Column Pairs |
 |[2466](https://leetcode.com/problems/count-ways-to-build-good-strings/)| Count Ways To Build Good Strings |
+|[2381](https://leetcode.com/problems/shifting-letters-ii/)| Shifting Letters II |
+
 
 
 
