@@ -24,3 +24,8 @@ class Solution:
 
         # Return the total number of valid substrings
         return res
+
+# Time Complexity (TC): O(n) - We iterate through the string with the `right` pointer once (O(n)) 
+#                              and adjust the `left` pointer at most n times (O(n)), leading to O(n) overall.
+# Space Complexity (SC): O(1) - The `cnt` dictionary always holds at most 3 keys ('a', 'b', 'c'), 
+#                                so the space complexity is constant.
