@@ -453,6 +453,8 @@
 |[2352](https://leetcode.com/problems/equal-row-and-column-pairs/)| Equal Row and Column Pairs |
 |[2466](https://leetcode.com/problems/count-ways-to-build-good-strings/)| Count Ways To Build Good Strings |
 |[2381](https://leetcode.com/problems/shifting-letters-ii/)| Shifting Letters II |
+|[1769](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)| Minimum Number of Operations to Move All Balls to Each Box |
+
 
 
 
