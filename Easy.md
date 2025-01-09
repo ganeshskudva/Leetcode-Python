@@ -132,3 +132,4 @@
 |[2558](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)|      Take Gifts From the Richest Pile |
 |[3264](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)|      Final Array State After K Multiplication Operations I |
 |[1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|      Maximum Score After Splitting a String |
+|[2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|      Counting Words With a Given Prefix |
