@@ -456,6 +456,8 @@
 |[1769](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)| Minimum Number of Operations to Move All Balls to Each Box |
 |[3223](https://leetcode.com/problems/minimum-length-of-string-after-operations/)| Minimum Length of String After Operations |
 |[2429](https://leetcode.com/problems/minimize-xor/)| Minimize XOR |
+|[2425](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)| Bitwise XOR of All Pairings |
+
 
 
 
