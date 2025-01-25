@@ -458,6 +458,9 @@
 |[2429](https://leetcode.com/problems/minimize-xor/)| Minimize XOR |
 |[2425](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)| Bitwise XOR of All Pairings |
 |[2683](https://leetcode.com/problems/neighboring-bitwise-xor/)| Neighboring Bitwise XOR |
+|[2948](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/)| Make Lexicographically Smallest Array by Swapping Elements |
+
+
 
 
 
